@@ -1,0 +1,11 @@
+{
+    "links":[
+        {"link":"https://www.asu.edu/", "name": "Arizona State University"},
+        {"link":"https://www.mills.edu/", "name": "Mills College"},
+        {"link":"https://www.berkeley.edu/", "name": "University of California, Berkeley"},
+        {"link":"https://www.ucdavis.edu/", "name": "University of California, Davis"},
+        {"link":"https://uci.edu/", "name": "University of California, Irvine"},
+        {"link":"http://www.ucla.edu/", "name": "University of California, Los Angeles"},
+        {"link":"https://www.ucmerced.edu/", "name": "University of California, Merced"}
+    ]
+}
