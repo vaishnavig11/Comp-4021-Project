@@ -1,11 +1,212 @@
-{
-    "links":[
-        {"link":"https://www.asu.edu/", "name": "Arizona State University"},
-        {"link":"https://www.mills.edu/", "name": "Mills College"},
-        {"link":"https://www.berkeley.edu/", "name": "University of California, Berkeley"},
-        {"link":"https://www.ucdavis.edu/", "name": "University of California, Davis"},
-        {"link":"https://uci.edu/", "name": "University of California, Irvine"},
-        {"link":"http://www.ucla.edu/", "name": "University of California, Los Angeles"},
-        {"link":"https://www.ucmerced.edu/", "name": "University of California, Merced"}
-    ]
-}
+[
+    {
+        "id": 1,
+        "link": "https://www.asu.edu",
+        "name": "Arizona State University"
+    },
+    {
+        "id": 2,
+        "link": "https://www.mills.edu",
+        "name": "Mills College"
+    },
+    {
+        "id": 3,
+        "link": "https://www.berkeley.edu/",
+        "name": "University of California, Berkeley"
+    },
+    {
+        "id": 4,
+        "link": "https://www.ucdavis.edu/",
+        "name": "University of California, Davis"
+    },
+    {
+        "id": 5,
+        "link": "https://uci.edu/",
+        "name": "University of California, Irvine"
+    },
+    {
+        "id": 6,
+        "link": "http://www.ucla.edu/",
+        "name": "University of California, Los Angeles"
+    },
+    {
+        "id": 7,
+        "link": "https://www.ucmerced.edu/",
+        "name": "University of California, Merced"
+    },
+    {
+        "id": 8,
+        "link": "https://www.ucr.edu/",
+        "name": "University of California, Riverside"
+    },
+    {
+        "id": 9,
+        "link": "https://www.ucsd.edu/",
+        "name": "University of California, San Diego"
+    },
+    {
+        "id": 10,
+        "link": "https://www.ucsb.edu/",
+        "name": "University of California, Santa Barbara"
+    },
+    {
+        "id": 11,
+        "link": "https://www.ucsc.edu/",
+        "name": "University of California, Santa Cruz"
+    },
+    {
+        "id": 12,
+        "link": "https://www.usc.edu/",
+        "name": "University of Southern California"
+    },
+    {
+        "id": 13,
+        "link": "https://www.gwu.edu",
+        "name": "George Washington University"
+    },
+    {
+        "id": 14,
+        "link": "http://www.ufl.edu/",
+        "name": "University of Florida"
+    },
+    {
+        "id": 15,
+        "link": "http://www.gatech.edu",
+        "name": "Georgia Institute of Technology"
+    },
+    {
+        "id": 16,
+        "link": "https://www.northwestern.edu",
+        "name": "Northwestern University"
+    },
+    {
+        "id": 17,
+        "link": "https://illinois.edu/",
+        "name": "University of Illinois, Urbana-Champaign"
+    },
+    {
+        "id": 18,
+        "link": "https://www.purdue.edu",
+        "name": "Purdue University"
+    },
+    {
+        "id": 19,
+        "link": "https://www.nd.edu/",
+        "name": "University of Notre Dame"
+    },
+    {
+        "id": 20,
+        "link": "https://www.iastate.edu",
+        "name": "Iowa State University"
+    },
+    {
+        "id": 21,
+        "link": "https://www.umd.edu/",
+        "name": "University of Maryland, College Park"
+    },
+    {
+        "id": 22,
+        "link": "https://www.smith.edu",
+        "name": "Smith College"
+    },
+    {
+        "id": 23,
+        "link": "https://www.umass.edu/",
+        "name": "University of Massachusetts, Amherst"
+    },
+    {
+        "id": 24,
+        "link": "https://www.msu.edu",
+        "name": "Michigan State University"
+    },
+    {
+        "id": 25,
+        "link": "https://umich.edu/",
+        "name": "University of Michigan, Ann Arbor"
+    },
+    {
+        "id": 26,
+        "link": "https://twin-cities.umn.edu/",
+        "name": "University of Minnesota, Twin Cities"
+    },
+    {
+        "id": 27,
+        "link": "http://www.mst.edu",
+        "name": "Missouri University of Science & Technology"
+    },
+    {
+        "id": 28,
+        "link": "https://wustl.edu/",
+        "name": "Washington University in St. Louis"
+    },
+    {
+        "id": 29,
+        "link": "https://www.rutgers.edu",
+        "name": "Rutgers, The State University of New Jersey, New Brunswick"
+    },
+    {
+        "id": 30,
+        "link": "http://www.cornell.edu",
+        "name": "Cornell University"
+    },
+    {
+        "id": 31,
+        "link": "https://www.stonybrook.edu/",
+        "name": "State University of New York at Stony Brook"
+    },
+    {
+        "id": 32,
+        "link": "https://drexel.edu",
+        "name": "Drexel University"
+    },
+    {
+        "id": 33,
+        "link": "https://www4.lehigh.edu/default.aspx",
+        "name": "Lehigh University"
+    },
+    {
+        "id": 34,
+        "link": "https://www.upenn.edu/",
+        "name": "University of Pennsylvania"
+    },
+    {
+        "id": 35,
+        "link": "https://www.vanderbilt.edu/",
+        "name": "Vanderbilt University"
+    },
+    {
+        "id": 36,
+        "link": "http://www.rice.edu",
+        "name": "Rice University"
+    },
+    {
+        "id": 37,
+        "link": "https://www.tamu.edu/",
+        "name": "Texas A&M University"
+    },
+    {
+        "id": 38,
+        "link": "https://www.utexas.edu/",
+        "name": "University of Texas at Austin"
+    },
+    {
+        "id": 39,
+        "link": "https://www.utah.edu/",
+        "name": "University of Utah"
+    },
+    {
+        "id": 40,
+        "link": "http://www.virginia.edu/",
+        "name": "University of Virginia"
+    },
+    {
+        "id": 41,
+        "link": "http://www.washington.edu/",
+        "name": "University of Washington"
+    },
+    {
+        "id": 42,
+        "link": "https://www.wisc.edu/",
+        "name": "University of Wisconsin, Madison"
+    }
+]

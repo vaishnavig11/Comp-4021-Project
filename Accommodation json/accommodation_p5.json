@@ -1,0 +1,36 @@
+[
+    {
+        "id": 41,
+        "link": "http://www.washington.edu/",
+        "name": "University of Washington",
+        "results": [
+            {
+                "title": "Housing | Study Abroad - University of Washington",
+                "link": "https://www.washington.edu/studyabroad/visitingexchange/practical-matters/housing/",
+                "snippet": "As an incoming exchange student to the University of Washington, you are free ... Student Orientation, you are eligible for this option for accommodation during ..."
+            },
+            {
+                "title": "Student housing | About the UW - University of Washington",
+                "link": "https://www.washington.edu/about/housing/",
+                "snippet": "Student housing. A variety of housing options are available at the UW. Offering traditional residence halls, the newest state-of-the-art facilities, apartment-style ..."
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "link": "https://www.wisc.edu/",
+        "name": "University of Wisconsin, Madison",
+        "results": [
+            {
+                "title": "Exchange – Housing – Study Abroad – UW–Madison",
+                "link": "https://studyabroad.wisc.edu/exchange/housing/",
+                "snippet": "Students should be prepared to live off-campus given the limited availability of University Housing accommodations. UW Residence Hall Housing. The university ..."
+            },
+            {
+                "title": "Accommodation Requests – University Housing – UW–Madison",
+                "link": "https://www.housing.wisc.edu/about/accommodation-requests/",
+                "snippet": "The University of Wisconsin-Madison and the Division of University Housing are ... For information regarding housing accommodation requests (i.e. ADA, accessibility, allergies, dietary concerns, etc.) ... A student and advisor in the Witte CCAS."
+            }
+        ]
+    }
+]
