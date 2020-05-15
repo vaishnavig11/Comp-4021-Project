@@ -13,7 +13,7 @@ var treatSearch = [];
 var f = false;
 
 
-for (let i = 40; i < inputJSON.length && i < 50; i++) {
+for (let i = 0; i < inputJSON.length /*&& i < 50*/; i++) {
 	//treatSearch.push("https://www.google.com/search?q="+keyword+"+"+inputJSON.links[i].link);
 	let resultsLink = {
 		id: inputJSON[i].id,
@@ -25,7 +25,7 @@ for (let i = 40; i < inputJSON.length && i < 50; i++) {
 	treatSearch.push(keyword+" "+ inputJSON[i].link);
 }
 
-console.log(resultsLinks);
+console.log(treatSearch.length);
 // Promises
 // ref: https://stackoverflow.com/questions/50924814/node-js-wait-for-multiple-async-calls-to-finish-before-continuing-in-code
 function asyncFun(index, term){
@@ -44,31 +44,25 @@ function asyncFun(index, term){
 	});
 };
 
-function performSearch(terms){
+function performSearch(terms, start, end){
 	const promises = [];
-	for(let i = 0; i < terms.length; i++) {
+	for(let i = start; i < terms.length && i < end; i++) {
 		promises.push(asyncFun(i, terms[i]));
 	}
 	return Promise.all(promises);
 }
 
-let p = Promise.resolve();
+var p = Promise.resolve();
 p = p.then(() => {
 	return performSearch(treatSearch);
 });
-// p = p.then(() => {
-// 	return performSearch(treatSearch, 10, 20);
-// });
-// p = p.then(() => {
-// 	return performSearch(treatSearch, 20, 30);
-// });
-// p = p.then(() => {
-// 	return performSearch(treatSearch, 30, 40);
-// });
-// p = p.then(() => {
-// 	return performSearch(treatSearch, 40, 50);
-// });
+
+for (let i = 0; i < treatSearch.length; i+= 10) {
+	p = p.then(() => {
+		return performSearch(treatSearch, i, i + 10);
+	});
+}
 p.then(()=>{
 	let output = JSON.stringify(resultsLinks);
-	fs.writeFileSync('accommodation_p5.json', output);
+	fs.writeFileSync('accommodation.json', output);
 })
