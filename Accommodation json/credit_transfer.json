@@ -1,0 +1,737 @@
+[
+    {
+        "id": 1,
+        "link": "https://www.asu.edu",
+        "name": "Arizona State University",
+        "courses": [
+            {
+                "exchangeCourse": "CEE372 Transportation Engineering",
+                "hkustCourse": "CIVL3610 Traffic and Transportation Engineering (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CEE421 Concrete Structures",
+                "hkustCourse": "CIVL3320 Reinforced Concrete Design (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CEE452 Foundations",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "link": "https://www.mills.edu",
+        "name": "Mills College",
+        "courses": []
+    },
+    {
+        "id": 3,
+        "link": "https://www.berkeley.edu/",
+        "name": "University of California, Berkeley",
+        "courses": [
+            {
+                "exchangeCourse": "CHMENG142 Chemical Kinetics and Reaction Engineering",
+                "hkustCourse": "CENG3230 Chemical and Biological Reaction Engineering (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CHMENG150B Transport and Separation Processes",
+                "hkustCourse": "CENG3210 Separation Processes (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MECENG102B Mechatronics Design",
+                "hkustCourse": "MECH2907 Mechatronic Design and Prototyping (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MECENG109 Heat Transfer",
+                "hkustCourse": "CENG3220 Heat and Mass Transfer (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MECENG109 Heat Transfer",
+                "hkustCourse": "MECH3310 Heat Transfer (3 Cr)"
+            },
+            {
+                "exchangeCourse": "PSYCHW1 General Psychology (Online Course) ",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)"
+            },
+            {
+                "exchangeCourse": "SOCIOLC167 Virtual Communities/Social Media",
+                "hkustCourse": "SACCUCORE Common Core Course in Social Analysis (0 Cr)"
+            },
+            {
+                "exchangeCourse": "STAT134 Concepts of Probability",
+                "hkustCourse": "MATH2421 Probability (4 Cr)"
+            },
+            {
+                "exchangeCourse": "UGBA118 International Trade",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)"
+            },
+            {
+                "exchangeCourse": "UGBA122 Financial Information Analysis",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            },
+            {
+                "exchangeCourse": "UGBA131 Corporate Finance and Financial Analysis",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "UGBA134 Introduction to Financial Engineering",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "UGBA137 Financial Derivatives",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "UGBA155 Leadership",
+                "hkustCourse": "MGMT3120 Managerial Leadership (4 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "link": "https://www.ucdavis.edu/",
+        "name": "University of California, Davis",
+        "courses": [
+            {
+                "exchangeCourse": "ECS152A Computer Networks",
+                "hkustCourse": "COMP4621 Computer Communication Networks I (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ENGCS120 Theory of Computation (eqv code: ECS120)",
+                "hkustCourse": "COMP3721 Theory of Computation (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "link": "https://uci.edu/",
+        "name": "University of California, Irvine",
+        "courses": []
+    },
+    {
+        "id": 6,
+        "link": "http://www.ucla.edu/",
+        "name": "University of California, Los Angeles",
+        "courses": [
+            {
+                "exchangeCourse": "MATH131B Analysis",
+                "hkustCourse": "MATH3033 Real Analysis (4 Cr)"
+            },
+            {
+                "exchangeCourse": "PSYCH10 Introductory Psychology",
+                "hkustCourse": "SOSC1980 Psychology and Everyday Life (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "link": "https://www.ucmerced.edu/",
+        "name": "University of California, Merced",
+        "courses": []
+    },
+    {
+        "id": 8,
+        "link": "https://www.ucr.edu/",
+        "name": "University of California, Riverside",
+        "courses": []
+    },
+    {
+        "id": 9,
+        "link": "https://www.ucsd.edu/",
+        "name": "University of California, San Diego",
+        "courses": [
+            {
+                "exchangeCourse": "CSE107 Introduction to Modern Cryptography",
+                "hkustCourse": "COMP4631 Computer and Communication Security (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CSE120 Principles of Computer Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON1 Principles of Microeconomics",
+                "hkustCourse": "ECON2103 Principles of Microeconomics (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON174 Financial Risk Management",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MATH194 Introduction to the Mathematics of Finance",
+                "hkustCourse": "MATH4512 Fundamentals of Mathematical Finance (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "link": "https://www.ucsb.edu/",
+        "name": "University of California, Santa Barbara",
+        "courses": [
+            {
+                "exchangeCourse": "ECON101 Intermediate Macroeconomic Theory",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            },
+            {
+                "exchangeCourse": "GEOW12 Maps and Spatial Reasoning",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "link": "https://www.ucsc.edu/",
+        "name": "University of California, Santa Cruz",
+        "courses": []
+    },
+    {
+        "id": 12,
+        "link": "https://www.usc.edu/",
+        "name": "University of Southern California",
+        "courses": [
+            {
+                "exchangeCourse": "CSCI360 Introduction to Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CSCI420 Computer Graphics",
+                "hkustCourse": "COMP4411 Computer Graphics (3 Cr)"
+            },
+            {
+                "exchangeCourse": "DSO/IOM-435 Enterprise Data Architecture / Business Database Systems",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON318 Introduction to Econometrics (eqv code: ECON414)",
+                "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON357 Money, Credit, and Banking",
+                "hkustCourse": "ECON4334 Money and Banking (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON419 Advanced Econometrics",
+                "hkustCourse": "ECON4284 Econometrics for Cross-Section and Panel Data (4 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE421 Financial Analysis and Valuation",
+                "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE423 Introduction to Venture Capital and Private Equity",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE432 Corporate Financial Strategy",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE437 Entrepreneurial Finance: Financial Management for Developing Firms",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (4 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE441 Investments",
+                "hkustCourse": "FINA3103 Intermediate Investments (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE459 Financial Derivatives",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FBE460 Mergers, Acquisitions and Restructuring",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (4 Cr)"
+            },
+            {
+                "exchangeCourse": "MKT405 Advertising and Promotion Strategy",
+                "hkustCourse": "MARK3410 Promotion and Advertising Management (4 Cr)"
+            },
+            {
+                "exchangeCourse": "MKT445 New Product Development and Branding",
+                "hkustCourse": "MARK4450 Brand Management (4 Cr)"
+            },
+            {
+                "exchangeCourse": "MKT465 Global Marketing Management",
+                "hkustCourse": "MARK3430 Global Marketing (4 Cr)"
+            },
+            {
+                "exchangeCourse": "MOR462 Management Consulting",
+                "hkustCourse": "MGMT4250 Management Consulting (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MOR469 Negotiation and Persuasion",
+                "hkustCourse": "MGMT3140 Negotiation (4 Cr)"
+            },
+            {
+                "exchangeCourse": "MOR492 Global Strategy",
+                "hkustCourse": "MGMT4230 International Management (4 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "link": "https://www.gwu.edu",
+        "name": "George Washington University",
+        "courses": []
+    },
+    {
+        "id": 14,
+        "link": "http://www.ufl.edu/",
+        "name": "University of Florida",
+        "courses": [
+            {
+                "exchangeCourse": "# Intro to Retail Sales & Management",
+                "hkustCourse": "MARK3460 Retailing (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ACG2021 Introduction to Financial Accounting",
+                "hkustCourse": "ACCT2010 Principles of Accounting I (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CEG4011 Soil Mechanics",
+                "hkustCourse": "CIVL3730 Fundamentals of Geotechnics (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CES3102 Mechanics of Engineering Structures / MECH OF ENG STRUCT",
+                "hkustCourse": "CIVL3310 Structural Analysis (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CGN3501/CGN3501C Civil Engineering Materials",
+                "hkustCourse": "CIVL2810 Construction Materials (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CLP2001 Personal Growth",
+                "hkustCourse": "SOSC1980 Psychology and Everyday Life (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECO3704 International Trade",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ECO4400 Game Theory and Applications",
+                "hkustCourse": "ECON4124 Applied Game Theory (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ENT3003 Principles of Entrepreneurship",
+                "hkustCourse": "MGMT4220 Entrepreneurship and Small Business Studies (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ESI4221C Industrial Quality Control",
+                "hkustCourse": "IEDA3270 Quality Engineering (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ESI4523 Industrial Systems Simulation",
+                "hkustCourse": "IEDA4130 System Simulation (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FIN4243 Debt and Money Markets",
+                "hkustCourse": "FINA4303 Fixed Income Securities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FIN4414 Financial Management",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FIN4453 Financial Modeling",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)"
+            },
+            {
+                "exchangeCourse": "FIN4504 Equity and Capital Markets",
+                "hkustCourse": "OTHRFREE Free Credits (4 Cr)"
+            },
+            {
+                "exchangeCourse": "GEB3373 International Business",
+                "hkustCourse": "MGMT3000LEVEL 3000-level Course in Management (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MAN4723 Strategic Management",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MAR3503 Consumer Behavior",
+                "hkustCourse": "MARK3420 Consumer Behavior (4 Cr)"
+            },
+            {
+                "exchangeCourse": "PCB4522 Molecular Genetics",
+                "hkustCourse": "LIFS4000LEVEL 4000-level Course in Life Science (0 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "link": "http://www.gatech.edu",
+        "name": "Georgia Institute of Technology",
+        "courses": []
+    },
+    {
+        "id": 16,
+        "link": "https://www.northwestern.edu",
+        "name": "Northwestern University",
+        "courses": [
+            {
+                "exchangeCourse": "CHEM_ENG351-X Process Economics, Design, and Evaluation",
+                "hkustCourse": "CENG4130 Plant Design and Economics (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON201-X Introduction to Macroeconomics",
+                "hkustCourse": "SACCUCORE Common Core Course in Social Analysis (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON308-X Money and Banking",
+                "hkustCourse": "ECON4334 Money and Banking (4 Cr)"
+            },
+            {
+                "exchangeCourse": "EECS349-X Machine Leaning",
+                "hkustCourse": "COMP4211 Machine Learning (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MATH331-X Abstract Algebra 1",
+                "hkustCourse": "MATH3121 Abstract Algebra (3 Cr)"
+            },
+            {
+                "exchangeCourse": "SOCIOL208-X Race and Society",
+                "hkustCourse": "SOSC1850 Understanding Society (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "link": "https://illinois.edu/",
+        "name": "University of Illinois, Urbana-Champaign",
+        "courses": []
+    },
+    {
+        "id": 18,
+        "link": "https://www.purdue.edu",
+        "name": "Purdue University",
+        "courses": [
+            {
+                "exchangeCourse": "# Advanced Corporate Financial Management",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            },
+            {
+                "exchangeCourse": "AAE36400 Control System Analysis",
+                "hkustCourse": "MECH3610 Control Principles (3 Cr)"
+            },
+            {
+                "exchangeCourse": "PHIL120 Critical Thinking",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "PHIL15000 Principles of Logic",
+                "hkustCourse": "HUMA1720 Logic (0 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "link": "https://www.nd.edu/",
+        "name": "University of Notre Dame",
+        "courses": []
+    },
+    {
+        "id": 20,
+        "link": "https://www.iastate.edu",
+        "name": "Iowa State University",
+        "courses": [
+            {
+                "exchangeCourse": "ENVS108 Introduction to Oceanography",
+                "hkustCourse": "ENVS2004 Introduction to Ocean Science (3 Cr)"
+            },
+            {
+                "exchangeCourse": "PSYCH101 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "link": "https://www.umd.edu/",
+        "name": "University of Maryland, College Park",
+        "courses": []
+    },
+    {
+        "id": 22,
+        "link": "https://www.smith.edu",
+        "name": "Smith College",
+        "courses": []
+    },
+    {
+        "id": 23,
+        "link": "https://www.umass.edu/",
+        "name": "University of Massachusetts, Amherst",
+        "courses": []
+    },
+    {
+        "id": 24,
+        "link": "https://www.msu.edu",
+        "name": "Michigan State University",
+        "courses": [
+            {
+                "exchangeCourse": "# International Financial Management",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "EC330 Money, Banking and Financial Markets",
+                "hkustCourse": "ECON4334 Money and Banking (4 Cr)"
+            },
+            {
+                "exchangeCourse": "PSY101 Introductory Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "link": "https://umich.edu/",
+        "name": "University of Michigan, Ann Arbor",
+        "courses": []
+    },
+    {
+        "id": 26,
+        "link": "https://twin-cities.umn.edu/",
+        "name": "University of Minnesota, Twin Cities",
+        "courses": []
+    },
+    {
+        "id": 27,
+        "link": "http://www.mst.edu",
+        "name": "Missouri University of Science & Technology",
+        "courses": []
+    },
+    {
+        "id": 28,
+        "link": "https://wustl.edu/",
+        "name": "Washington University in St. Louis",
+        "courses": [
+            {
+                "exchangeCourse": "ACCT(B50)3610 Intermediate Financial Accounting Theory I",
+                "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FIN441(B52) Investments",
+                "hkustCourse": "FINA3103 Intermediate Investments (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MGT(B53)380 Business Strategy",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MGT308(B53) Introduction to International Business",
+                "hkustCourse": "MGMT4230 International Management (4 Cr)"
+            },
+            {
+                "exchangeCourse": "PSYCH(L33)100B Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "link": "https://www.rutgers.edu",
+        "name": "Rutgers, The State University of New Jersey, New Brunswick",
+        "courses": []
+    },
+    {
+        "id": 30,
+        "link": "http://www.cornell.edu",
+        "name": "Cornell University",
+        "courses": []
+    },
+    {
+        "id": 31,
+        "link": "https://www.stonybrook.edu/",
+        "name": "State University of New York at Stony Brook",
+        "courses": []
+    },
+    {
+        "id": 32,
+        "link": "https://drexel.edu",
+        "name": "Drexel University",
+        "courses": [
+            {
+                "exchangeCourse": "FIN302 Intermediate Corporate Finance",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FIN325 Financial Institutions and Markets",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (2 Cr)"
+            },
+            {
+                "exchangeCourse": "MGMT450 Strategy and Competitive Advantage",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)"
+            },
+            {
+                "exchangeCourse": "MKTG348 Services Marketing",
+                "hkustCourse": "MARK3470 Services Marketing (4 Cr)"
+            },
+            {
+                "exchangeCourse": "MKTG356 Consumer Behavior",
+                "hkustCourse": "MARK3420 Consumer Behavior (4 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "link": "https://www4.lehigh.edu/default.aspx",
+        "name": "Lehigh University",
+        "courses": []
+    },
+    {
+        "id": 34,
+        "link": "https://www.upenn.edu/",
+        "name": "University of Pennsylvania",
+        "courses": [
+            {
+                "exchangeCourse": "CIS160 Mathematical Foundation of Computer Science",
+                "hkustCourse": "COMPA&T Computer Science Track Course (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CIS240 Introduction to Computer Architecture / Intro  to Comp Systems",
+                "hkustCourse": "COMP2611 Computer Organization (4 Cr)"
+            },
+            {
+                "exchangeCourse": "CIS380 Computer Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON050 International Economics",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON235 Industrial Organization",
+                "hkustCourse": "ECON4114 Industrial Organization and Competitive Strategy (4 Cr)"
+            },
+            {
+                "exchangeCourse": "FNCE203 Advanced Corporate Finance ",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FNCE206 Financial Derivatives (eqv code: FNCE717)",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FNCE207 Corporate Valuation",
+                "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FNCE251 Finance of Buyouts and Acquisitions",
+                "hkustCourse": "FINA4203 Mergers, Acquisitions, and Corporate Restructuring (3 Cr)"
+            },
+            {
+                "exchangeCourse": "FNCE725 Fixed Income Securities (eqv code: FNCE235)",
+                "hkustCourse": "MATH4511 Quantitative Methods for Fixed Income Derivatives (3 Cr)"
+            },
+            {
+                "exchangeCourse": "STAT430 Probability",
+                "hkustCourse": "MATH2411 Applied Statistics (4 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "link": "https://www.vanderbilt.edu/",
+        "name": "Vanderbilt University",
+        "courses": [
+            {
+                "exchangeCourse": "CE3250 Gedotechnical Engineering",
+                "hkustCourse": "CIVL3730 Fundamentals of Geotechnics (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "link": "http://www.rice.edu",
+        "name": "Rice University",
+        "courses": [
+            {
+                "exchangeCourse": "PSYC101 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "link": "https://www.tamu.edu/",
+        "name": "Texas A&M University",
+        "courses": [
+            {
+                "exchangeCourse": "CHEN323 Chemical Engineering Heat Transfer Operations",
+                "hkustCourse": "CENG3220 Heat and Mass Transfer (3 Cr)"
+            },
+            {
+                "exchangeCourse": "CHEN425 Process Integration, Simulation and Economics",
+                "hkustCourse": "CENG3120 Process Design and Integration (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "link": "https://www.utexas.edu/",
+        "name": "University of Texas at Austin",
+        "courses": []
+    },
+    {
+        "id": 39,
+        "link": "https://www.utah.edu/",
+        "name": "University of Utah",
+        "courses": []
+    },
+    {
+        "id": 40,
+        "link": "http://www.virginia.edu/",
+        "name": "University of Virginia",
+        "courses": [
+            {
+                "exchangeCourse": "# Probability / Introduction to Probability",
+                "hkustCourse": "ISOM3540 Introduction to Probability Models (3 Cr)"
+            },
+            {
+                "exchangeCourse": "# Probability / Introduction to Probability",
+                "hkustCourse": "MATH2421 Probability (4 Cr)"
+            },
+            {
+                "exchangeCourse": "COMM3110 Intermediate Accounting I",
+                "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)"
+            },
+            {
+                "exchangeCourse": "COMM3720 Intermediate Corporate Finance",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            },
+            {
+                "exchangeCourse": "COMM4720 Advanced Corporate Finance: Valuation and Restructuring",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)"
+            },
+            {
+                "exchangeCourse": "COMM4720 Advanced Corporate Finance: Valuation and Restructuring",
+                "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)"
+            },
+            {
+                "exchangeCourse": "COMM4780 Quantitative Finance Seminar",
+                "hkustCourse": "FINA4003 Wealth Management (3 Cr)"
+            },
+            {
+                "exchangeCourse": "ECON3020 Intermediate Macroeconomics",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            },
+            {
+                "exchangeCourse": "PSYC1010 Introductory Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)"
+            },
+            {
+                "exchangeCourse": "PSYC2600 Introduction to Social Psychology",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "link": "http://www.washington.edu/",
+        "name": "University of Washington",
+        "courses": []
+    },
+    {
+        "id": 42,
+        "link": "https://www.wisc.edu/",
+        "name": "University of Wisconsin, Madison",
+        "courses": []
+    }
+]
