@@ -44,7 +44,8 @@ request.get(base,function(err,res,body){
                 item = {
                     // university name: $(this).children().first().children().first().children().first().text()
                     exchangeCourse: $(this).children().first().children().first().children().first().next().text(),
-                    hkustCourse: $(this).children().first().next().text()
+                    hkustCourse: $(this).children().first().next().text(),
+                    hkustCode: $(this).children().first().next().text().split(" ")[0]
                 }
                 inputJSON[index].courses.push(item);
                 //course.push(item);
