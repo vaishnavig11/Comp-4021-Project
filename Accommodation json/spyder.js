@@ -7,11 +7,18 @@ var base = 'https://crtran.ust.hk/credit_instit?asOfTermCode=1910' //&orgID='
 var uurl = 'https://crtran.ust.hk/credit_instit?asOfTermCode=1910&orgID=B0249'
 var nameurl = 'https://seng.ust.hk/academics/undergraduate/exchange'
 
-let rawdata = fs.readFileSync('link.json');
+let rawdata = fs.readFileSync('join_link_location.json');
 let inputJSON = JSON.parse(rawdata);
 
 var uniList = []
 
+// for scrap link
+/* inputJSON.forEach(element => {
+    element.link = ""
+}); */
+
+
+// for credit transfer
 inputJSON.forEach(element => {
     element.courses = [];
     uniList[element.id - 1] = element.name;
@@ -30,6 +37,7 @@ inputJSON.forEach(element => {
 //     }
 // });
 
+// for generate join_link_location_credit.json
 request.get(base,function(err,res,body){
     //var course = [];
     var item = {
@@ -39,6 +47,7 @@ request.get(base,function(err,res,body){
     if(!err){
         $ = cheerio.load(body);
         $('tr').each(function(i, elem) {
+            // comparing the
             let index = uniList.indexOf($(this).children().first().children().first().children().first().text());
             if (index !== -1) {
                 item = {
@@ -54,13 +63,15 @@ request.get(base,function(err,res,body){
         });
     }
     let output = JSON.stringify(inputJSON);
-    fs.writeFileSync('credit_transfer.json', output);
+    // fs.writeFileSync('credit_transfer.json', output);
+    fs.writeFileSync('join_link_location_credit.json', output);
     //console.log(inputJSON);
     // for(var i = 1; i < course.length; i ++){
     //     console.log(course[i])
     // }
 });
 
+// for generate link.json
 /* request.get(nameurl,function(err,res,body){
     let university = []
     if(!err){
@@ -69,6 +80,7 @@ request.get(base,function(err,res,body){
             if ($(this).text() == 'United States of America') {
                 $ = cheerio.load($(this).next().html())
                 $('li a').each(function(i, elem) {
+                    inputJSON.name
                     let uniJSON ={
                         id: i+1,
                         link: $(this).attr('href'),
