@@ -9,15 +9,14 @@ NodeJS Files
 JSON Files
 1. StartingInfo.json: Basic information about each exchange institution: University Name, Program Duration, CGA and Language Requirements, Special Notes from SENG
 2. rank.json: Generated when ranking.js is executed: Additional field 'rank' included. 
-3. location.json: Generated when location.js is executed: Additional field 'location' included. 
-4. accommodation.json: Generated when accommodation.js is executed: Additional field 'accommodation_res' included. 
-5. link.json: Generated when ust_link.js is executed: Additional field 'link' included. 
-6. credit_transfer.json: Generated when ust_info_scraper.js is executed: Additional field 'courses' included. (deleted because its content is scraped when final.json is generated)
-7. combine.json: Generated when combine.js is executed.
-8. final.json: Generated when ust_info_scraper.js is executed: Final JSON file read by the Browser (HTML) to display information in the UI.
+3. location.json: Generated when location.js is executed: Additional field 'location' included.
+4. link.json: Generated when ust_link.js is executed: Additional field 'link' included. 
+5. accommodation.json: Generated when accommodation.js is executed: Additional field 'accommodation_res' included. 
+6. combine.json: Generated when combine.js is executed.
+7. final.json: Generated when ust_info_scraper.js is executed: Final JSON file read by the Browser (HTML) to display information in the UI.
 
 HTML Files
-1. exchange.html: This file reads the information stored in final.json and displayes the information on a USA Map.
+1. exchange.html: This file reads the information stored in final.json and displays the information on a USA Map.
 
 Procedure to Update the JSON File With Latest Information: Execute the NodeJS files in below order to update the JSON files and generate final.json which is read by the HTML file to display updated information in the browser
 1. ranking.js
