@@ -10,7 +10,7 @@
             "IELTS": 6
         },
         "rank": 113,
-        "SplNotes": "For all engineering schools: Exchange students cannot take any Capstone engineering courses and will not be given special permission to enroll in any full courses, which is typical of many departments. \n For the following schools, further restrictions apply: \n Computing, Informatics, and Decision Systems Engineering: Students can take any lower division courses they wish. For upper division courses, they need instructor approval to receive access to the course. \n Sustainable Engineering and the Built Environment: If there are a large number of open seats, students will be allowed to enroll in courses for which they meet prerequisites. If there are very few seats available, advisors will wait until 1-2 weeks before the start of the semester before giving permission for exchange students to enroll. \n Engineering of Matter, Transport, and Energy: After all registration has opened, students will be given overrides into courses that still have a lot of seats open. If there are 10 or less seats available, advisors will wait until 1-2 weeks before the start of the semester before giving permission for exchange students to enroll. \n Students cannot take Journalism (JMC) courses at ASU. They can only take Mass Communication (MCO) courses, which are very limited in offerings.",
+        "SplNotes": "For all engineering schools: Exchange students cannot take any Capstone engineering courses and will not be given special permission to enroll in any full courses, which is typical of many departments. \n Computing, Informatics, and Decision Systems Engineering: Students can take any lower division courses they wish. For upper division courses, they need instructor approval to receive access to the course.",
         "location": [
             33.464,
             -111.923
@@ -29,7 +29,28 @@
                 "snippet": "Serving more than 10000 international students, ASU is home to students from all ... including on-campus suite-style rooms and shared apartments with a kitchen. ... Safety and security; Close to classes, academic buildings, student services ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "",
+                "hkustCourse": "HKUST Equivalent Course",
+                "hkustCode": "HKUST"
+            },
+            {
+                "exchangeCourse": "CEE372 Transportation Engineering",
+                "hkustCourse": "CIVL3610 Traffic and Transportation Engineering (3 Cr)",
+                "hkustCode": "CIVL3610"
+            },
+            {
+                "exchangeCourse": "CEE421 Concrete Structures",
+                "hkustCourse": "CIVL3320 Reinforced Concrete Design (3 Cr)",
+                "hkustCode": "CIVL3320"
+            },
+            {
+                "exchangeCourse": "CEE452 Foundations",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            }
+        ]
     },
     {
         "id": 2,
@@ -42,7 +63,7 @@
             "IELTS": "NA"
         },
         "rank": 17,
-        "SplNotes": "Exchange students are required to take at least two courses in Engineering. \n Courses offered by School of Chemical and Biomolecular Engineering are in high demand. Students interested in those disciplines have to be extremely flexible in course selection and may not be able to register for any preferred major courses at the end. \n Cornell University will no longer be admitting exchange students to Computer Science Engineering and Computer Engineering.",
+        "SplNotes": "Exchange students are required to take at least two courses in Engineering. Students interested in Chemical and Biomolecular Engineering have to be extremely flexible in course selection and may not be able to register for any preferred major courses at the end. Cornell University will no longer be admitting exchange students to Computer Science Engineering and Computer Engineering.",
         "location": [
             42.453,
             -76.474
@@ -61,7 +82,13 @@
                 "snippet": "Housing. House and backyard. University Housing. About 11 percent of graduate students live in university housing. Cornell's graduate and professional student ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "AEM4545 International Finance & Macroeconomics",
+                "hkustCourse": "ECON4374 International Macroeconomics and Finance (4 Cr)",
+                "hkustCode": "ECON4374"
+            }
+        ]
     },
     {
         "id": 3,
@@ -132,7 +159,7 @@
             "IELTS": 7
         },
         "rank": 29,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             33.776,
             -84.396
@@ -151,7 +178,108 @@
                 "snippet": "A dedicated student-led help desk providing free technology-related support to all Housing residents. Services include support for network connections, cable TV, ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "BIOL3380 Introductory Microbiology",
+                "hkustCourse": "LIFS3060 Microbiology (3 Cr)",
+                "hkustCode": "LIFS3060"
+            },
+            {
+                "exchangeCourse": "CEE4100 Construction Engineering and Management",
+                "hkustCourse": "CIVL3210 Introduction to Construction Management (3 Cr)",
+                "hkustCode": "CIVL3210"
+            },
+            {
+                "exchangeCourse": "CEE4405 Geotechnical Engineering",
+                "hkustCourse": "CIVL3730 Fundamentals of Geotechnics (3 Cr)",
+                "hkustCode": "CIVL3730"
+            },
+            {
+                "exchangeCourse": "CEE4510 Structural Steel Design",
+                "hkustCourse": "CIVL4320 Structural Steel Design (3 Cr)",
+                "hkustCode": "CIVL4320"
+            },
+            {
+                "exchangeCourse": "CEE4520 Reinforced Concrete Design",
+                "hkustCourse": "CIVL3320 Reinforced Concrete Design (3 Cr)",
+                "hkustCode": "CIVL3320"
+            },
+            {
+                "exchangeCourse": "CEE4600 Transportation Planning and Design",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "CHEM6501 Biochemistry I (eqv code: CHEM4511)",
+                "hkustCourse": "LIFS2210 Biochemistry I (3 Cr)",
+                "hkustCode": "LIFS2210"
+            },
+            {
+                "exchangeCourse": "CS1331 Introduction to Object-Oriented Programming",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "CS3210 Design-Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "CS3510 Design and Analysis of Algorithms",
+                "hkustCourse": "COMP3711 Design and Analysis of Algorithms (3 Cr)",
+                "hkustCode": "COMP3711"
+            },
+            {
+                "exchangeCourse": "CS3600 Introduction to Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "ECE4430 Analog Integrated Circuits",
+                "hkustCourse": "ELEC4420 Analogue Integrated Circuits Design and Analysis (0 Cr)",
+                "hkustCode": "ELEC4420"
+            },
+            {
+                "exchangeCourse": "HTS3061 Modern China",
+                "hkustCourse": "HUMA1440 Modern China (3 Cr)",
+                "hkustCode": "HUMA1440"
+            },
+            {
+                "exchangeCourse": "MATH2552 Differential Equations",
+                "hkustCourse": "MATH2351 Introduction to Differential Equations (3 Cr)",
+                "hkustCode": "MATH2351"
+            },
+            {
+                "exchangeCourse": "MATH2552 Differential Equations",
+                "hkustCourse": "MATH2352 Differential Equations (4 Cr)",
+                "hkustCode": "MATH2352"
+            },
+            {
+                "exchangeCourse": "ME3017 System Dynamics",
+                "hkustCourse": "MECH3610 Control Principles (3 Cr)",
+                "hkustCode": "MECH3610"
+            },
+            {
+                "exchangeCourse": "ME3180 Mechanical Design and Analysis / Machine Design",
+                "hkustCourse": "MECH3520 Design and Manufacturing II (3 Cr)",
+                "hkustCode": "MECH3520"
+            },
+            {
+                "exchangeCourse": "ME3345 Heat Transfer",
+                "hkustCourse": "MECH3310 Heat Transfer (3 Cr)",
+                "hkustCode": "MECH3310"
+            },
+            {
+                "exchangeCourse": "MGT3300 Marketing Management",
+                "hkustCourse": "MARK2120 Marketing Management (3 Cr)",
+                "hkustCode": "MARK2120"
+            },
+            {
+                "exchangeCourse": "PSYC1101 General Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            }
+        ]
     },
     {
         "id": 5,
@@ -164,7 +292,7 @@
             "IELTS": 6
         },
         "rank": 117,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             42.027,
             -93.646
@@ -184,11 +312,6 @@
             }
         ],
         "courses": [
-            {
-                "exchangeCourse": "ENVS108 Introduction to Oceanography",
-                "hkustCourse": "ENVS2004 Introduction to Ocean Science (3 Cr)",
-                "hkustCode": "ENVS2004"
-            },
             {
                 "exchangeCourse": "PSYCH101 Introduction to Psychology",
                 "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
@@ -306,7 +429,23 @@
                 "snippet": "Residence Halls. Thomas Jefferson ... Rolla Suites. Miner Village ... Student Life · Organizations · Fraternities/Sororities · Volunteerism · Activities Calendar ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CE3116 Construction Materials, Properties and Testing",
+                "hkustCourse": "CIVL2810 Construction Materials (3 Cr)",
+                "hkustCode": "CIVL2810"
+            },
+            {
+                "exchangeCourse": "CE3500 Transportation Engineering",
+                "hkustCourse": "CIVL3610 Traffic and Transportation Engineering (3 Cr)",
+                "hkustCode": "CIVL3610"
+            },
+            {
+                "exchangeCourse": "CE4448 Fundamentals of Contracts and Construction Engineering",
+                "hkustCourse": "CIVL3210 Introduction to Construction Management (3 Cr)",
+                "hkustCode": "CIVL3210"
+            }
+        ]
     },
     {
         "id": 9,
@@ -368,6 +507,36 @@
                 "exchangeCourse": "SOCIOL208-X Race and Society",
                 "hkustCourse": "SOSC1850 Understanding Society (3 Cr)",
                 "hkustCode": "SOSC1850"
+            },
+            {
+                "exchangeCourse": "BUS4443X Value Investing  (eqv code: BUSINESS4443x)",
+                "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)",
+                "hkustCode": "FINA4013"
+            },
+            {
+                "exchangeCourse": "BUS4468X Interpersonal Negotiations (eqv code: BUSINESS4468x)",
+                "hkustCourse": "MGMT3140 Negotiation (4 Cr)",
+                "hkustCode": "MGMT3140"
+            },
+            {
+                "exchangeCourse": "BUS4486X Financial Modelling / Financial Analytics  (eqv code: BUSINESS4486x)",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (2 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "BUS4567X Wealth Management (eqv code: BUSINESS4567x)",
+                "hkustCourse": "FINA4003 Wealth Management (3 Cr)",
+                "hkustCode": "FINA4003"
+            },
+            {
+                "exchangeCourse": "BUS4574X Mergers and Acquisitions / Mergers, Acquisitions and Restructurings  (eqv code: BUSINESS4574x)",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (2 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "BUSINESS4417 Corporate Financial Reporting",
+                "hkustCourse": "ACCT3020 Financial Accounting II (3 Cr)",
+                "hkustCode": "ACCT3020"
             }
         ]
     },
@@ -401,7 +570,33 @@
                 "snippet": "Although staying in one of the university's residence halls is convenient, it can be more expensive than sharing an apartment or a house with other students."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "# Advanced Corporate Financial Management",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "AAE36400 Control System Analysis",
+                "hkustCourse": "MECH3610 Control Principles (3 Cr)",
+                "hkustCode": "MECH3610"
+            },
+            {
+                "exchangeCourse": "MGMT54400 Database Management Systems",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "PHIL120 Critical Thinking",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "PHIL15000 Principles of Logic",
+                "hkustCourse": "HUMA1720 Logic (0 Cr)",
+                "hkustCode": "HUMA1720"
+            }
+        ]
     },
     {
         "id": 11,
@@ -452,7 +647,7 @@
             "IELTS": 5.5
         },
         "rank": 60,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             40.501,
             -74.447
@@ -471,7 +666,18 @@
                 "snippet": "If you are a student having a problem with your room or your roommate, please see your ... You can visit http://studentabc.rutgers.edu to review your account."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "33390400XX Corporate Finance ",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "ECON322 Econometrics (eqv code: 01220322xx)",
+                "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)",
+                "hkustCode": "ECON3334"
+            }
+        ]
     },
     {
         "id": 13,
@@ -484,7 +690,7 @@
             "IELTS": 6.5
         },
         "rank": 90,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             40.912,
             -73.123
@@ -516,7 +722,7 @@
             "IELTS": 6
         },
         "rank": 70,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             30.619,
             -96.336
@@ -535,7 +741,23 @@
                 "snippet": "Home · About · Applications, Rates, & Policies · How-To's & Procedures · myHousing Portal · Rates · Rules · Housing Options · On-Campus Apartments."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CHEN323 Chemical Engineering Heat Transfer Operations",
+                "hkustCourse": "CENG3220 Heat and Mass Transfer (3 Cr)",
+                "hkustCode": "CENG3220"
+            },
+            {
+                "exchangeCourse": "CHEN425 Process Integration, Simulation and Economics",
+                "hkustCourse": "CENG3120 Process Design and Integration (3 Cr)",
+                "hkustCode": "CENG3120"
+            },
+            {
+                "exchangeCourse": "SOCI205 Introduction to Sociology",
+                "hkustCourse": "SOSC1850 Understanding Society (3 Cr)",
+                "hkustCode": "SOSC1850"
+            }
+        ]
     },
     {
         "id": 15,
@@ -548,7 +770,7 @@
             "IELTS": 6.5
         },
         "rank": 69,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             38.9,
             -77.049
@@ -599,7 +821,68 @@
                 "snippet": "This request is only for housing and dining accommodations at UT Austin related ... Requests will not be reviewed until the student and appropriate professional ... special dietary needs, visit http://housing.utexas.edu/dining/nutrition-services or ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "# Financial Accounting - Intermediate",
+                "hkustCourse": "ACCT3020 Financial Accounting II (3 Cr)",
+                "hkustCode": "ACCT3020"
+            },
+            {
+                "exchangeCourse": "ACC359 Managerial/Cost Accounting",
+                "hkustCourse": "ACCT3210 Advanced Management Accounting (3 Cr)",
+                "hkustCode": "ACCT3210"
+            },
+            {
+                "exchangeCourse": "ECO320L Macroeconomic Theory",
+                "hkustCourse": "SACCUCORE Common Core Course in Social Analysis (0 Cr)",
+                "hkustCode": "SACCUCORE"
+            },
+            {
+                "exchangeCourse": "FIN371M Money and Capital Markets",
+                "hkustCourse": "FINA4103 Financial Markets Trading and Structure (3 Cr)",
+                "hkustCode": "FINA4103"
+            },
+            {
+                "exchangeCourse": "FIN376 International Finance",
+                "hkustCourse": "FINA4403 International Finance (3 Cr)",
+                "hkustCode": "FINA4403"
+            },
+            {
+                "exchangeCourse": "FIN377.2 Financial Risk Management",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "FIN377.4 Financial Analysis",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "MAN374 General Management & Strategy",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)",
+                "hkustCode": "MGMT4210"
+            },
+            {
+                "exchangeCourse": "MKT372 Brand Management",
+                "hkustCourse": "MARK4450 Brand Management (4 Cr)",
+                "hkustCode": "MARK4450"
+            },
+            {
+                "exchangeCourse": "MKT372.4 Global Marketing",
+                "hkustCourse": "MARK3430 Global Marketing (4 Cr)",
+                "hkustCode": "MARK3430"
+            },
+            {
+                "exchangeCourse": "SDS321 Introduction to Probability & Statistics",
+                "hkustCourse": "ISOM3540 Introduction to Probability Models (3 Cr)",
+                "hkustCode": "ISOM3540"
+            },
+            {
+                "exchangeCourse": "STA372 Financial and Econometric Time Series Modeling",
+                "hkustCourse": "ISOM4000OM 4000-level Course in Information Systems, Business Statistics and Operations Management (3 Cr)",
+                "hkustCode": "ISOM4000OM"
+            }
+        ]
     },
     {
         "id": 17,
@@ -612,7 +895,7 @@
             "IELTS": 6.5
         },
         "rank": 112,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             40.765,
             -111.842
@@ -644,7 +927,7 @@
             "IELTS": 6.5
         },
         "rank": 22,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             37.874,
             -122.251
@@ -663,7 +946,48 @@
                 "snippet": "An Undergraduate Student · A Graduate Student · A Post Doc, Visiting Scholar, Faculty, or Staff Member · Looking for Off-Campus Housing · A Summer Session ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CHMENG142 Chemical Kinetics and Reaction Engineering",
+                "hkustCourse": "CENG3230 Chemical and Biological Reaction Engineering (3 Cr)",
+                "hkustCode": "CENG3230"
+            },
+            {
+                "exchangeCourse": "CHMENG150B Transport and Separation Processes",
+                "hkustCourse": "CENG3210 Separation Processes (3 Cr)",
+                "hkustCode": "CENG3210"
+            },
+            {
+                "exchangeCourse": "MECENG102B Mechatronics Design",
+                "hkustCourse": "MECH2907 Mechatronic Design and Prototyping (3 Cr)",
+                "hkustCode": "MECH2907"
+            },
+            {
+                "exchangeCourse": "MECENG109 Heat Transfer",
+                "hkustCourse": "CENG3220 Heat and Mass Transfer (3 Cr)",
+                "hkustCode": "CENG3220"
+            },
+            {
+                "exchangeCourse": "MECENG109 Heat Transfer",
+                "hkustCourse": "MECH3310 Heat Transfer (3 Cr)",
+                "hkustCode": "MECH3310"
+            },
+            {
+                "exchangeCourse": "UGBA131 Corporate Finance and Financial Analysis",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "UGBA134 Introduction to Financial Engineering",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "UGBA155 Leadership",
+                "hkustCourse": "MGMT3120 Managerial Leadership (4 Cr)",
+                "hkustCode": "MGMT3120"
+            }
+        ]
     },
     {
         "id": 19,
@@ -676,7 +1000,7 @@
             "IELTS": 7
         },
         "rank": 38,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             38.54,
             -121.755
@@ -695,7 +1019,18 @@
                 "snippet": "2020年4月18日 - Transfer Apartments. Students who transfer to UC Davis for the 2020-2021 academic year and live with Student Housing will live in our Transfer ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "ECS152A Computer Networks",
+                "hkustCourse": "COMP4621 Computer Communication Networks I (3 Cr)",
+                "hkustCode": "COMP4621"
+            },
+            {
+                "exchangeCourse": "ENGCS120 Theory of Computation (eqv code: ECS120)",
+                "hkustCourse": "COMP3721 Theory of Computation (3 Cr)",
+                "hkustCode": "COMP3721"
+            }
+        ]
     },
     {
         "id": 20,
@@ -708,7 +1043,7 @@
             "IELTS": 6.5
         },
         "rank": 36,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             33.64,
             -117.844
@@ -727,7 +1062,13 @@
                 "snippet": "University Apartments, which allow you to interact with and explore the community, while practicing your English in real-life situations; Homestays, which will ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "PSYBEN9 Introduction to Psychology (eqv code: PSYCH7A)",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            }
+        ]
     },
     {
         "id": 21,
@@ -740,7 +1081,7 @@
             "IELTS": 7
         },
         "rank": 20,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             34.069,
             -118.445
@@ -759,7 +1100,18 @@
                 "snippet": "All of our residence halls are within a couple minutes' walk of each other - and classes ... student running up the steps of the UCLA Tennis Center for her workout."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "MATH131B Analysis",
+                "hkustCourse": "MATH3033 Real Analysis (4 Cr)",
+                "hkustCode": "MATH3033"
+            },
+            {
+                "exchangeCourse": "PSYCH10 Introductory Psychology",
+                "hkustCourse": "SOSC1980 Psychology and Everyday Life (3 Cr)",
+                "hkustCode": "SOSC1980"
+            }
+        ]
     },
     {
         "id": 22,
@@ -772,7 +1124,7 @@
             "IELTS": 6.5
         },
         "rank": 107,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             37.364,
             -120.425
@@ -804,7 +1156,7 @@
             "IELTS": 6.5
         },
         "rank": 91,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             33.974,
             -117.328
@@ -836,7 +1188,7 @@
             "IELTS": 7
         },
         "rank": 37,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             32.88,
             -117.234
@@ -855,7 +1207,28 @@
                 "snippet": "Housing. Here's a compilation of information you will need to continue your housing search while at UC San Diego. Visit the websites listed below for detailed ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CSE107 Introduction to Modern Cryptography",
+                "hkustCourse": "COMP4631 Computer and Communication Security (3 Cr)",
+                "hkustCode": "COMP4631"
+            },
+            {
+                "exchangeCourse": "CSE120 Principles of Computer Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "ECON1 Principles of Microeconomics",
+                "hkustCourse": "ECON2103 Principles of Microeconomics (3 Cr)",
+                "hkustCode": "ECON2103"
+            },
+            {
+                "exchangeCourse": "MATH194 Introduction to the Mathematics of Finance",
+                "hkustCourse": "MATH4512 Fundamentals of Mathematical Finance (3 Cr)",
+                "hkustCode": "MATH4512"
+            }
+        ]
     },
     {
         "id": 25,
@@ -868,7 +1241,7 @@
             "IELTS": 6.5
         },
         "rank": 34,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             34.414,
             -119.849
@@ -900,7 +1273,7 @@
             "IELTS": 6.5
         },
         "rank": 87,
-        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered. Please refer to the website below. The “UC Majors” part will help students to determine if the major is offered at a particular UC campus. There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
+        "SplNotes": "Students should be prepared to attend any host UC campus where Engineering/ Computer Science major is offered.There are quite a number of restrictions in selecting individual courses, students must read the restrictions in different campuses carefully. Departments in UC screen carefully for prerequisites. The computer science major at UC requires students to have the same preparation as engineering students. Courses in computer science are not open to non-computer science major students.",
         "location": [
             36.992,
             -122.058
@@ -983,49 +1356,19 @@
                 "hkustCode": "SOSC1980"
             },
             {
-                "exchangeCourse": "ECO3704 International Trade",
-                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
-                "hkustCode": "ECON4364"
-            },
-            {
                 "exchangeCourse": "ECO4400 Game Theory and Applications",
                 "hkustCourse": "ECON4124 Applied Game Theory (4 Cr)",
                 "hkustCode": "ECON4124"
             },
             {
                 "exchangeCourse": "ENT3003 Principles of Entrepreneurship",
-                "hkustCourse": "MGMT4220 Entrepreneurship and Small Business Studies (4 Cr)",
+                "hkustCourse": "MGMT4220 Entrepreneurship and Innovation (4 Cr)",
                 "hkustCode": "MGMT4220"
-            },
-            {
-                "exchangeCourse": "ESI4221C Industrial Quality Control",
-                "hkustCourse": "IEDA3270 Quality Engineering (3 Cr)",
-                "hkustCode": "IEDA3270"
             },
             {
                 "exchangeCourse": "ESI4523 Industrial Systems Simulation",
                 "hkustCourse": "IEDA4130 System Simulation (3 Cr)",
                 "hkustCode": "IEDA4130"
-            },
-            {
-                "exchangeCourse": "FIN4243 Debt and Money Markets",
-                "hkustCourse": "FINA4303 Fixed Income Securities (3 Cr)",
-                "hkustCode": "FINA4303"
-            },
-            {
-                "exchangeCourse": "FIN4414 Financial Management",
-                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
-                "hkustCode": "FINA3303"
-            },
-            {
-                "exchangeCourse": "FIN4453 Financial Modeling",
-                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
-                "hkustCode": "FINA3000LEVEL"
-            },
-            {
-                "exchangeCourse": "FIN4504 Equity and Capital Markets",
-                "hkustCourse": "OTHRFREE Free Credits (4 Cr)",
-                "hkustCode": "OTHRFREE"
             },
             {
                 "exchangeCourse": "GEB3373 International Business",
@@ -1043,9 +1386,9 @@
                 "hkustCode": "MARK3420"
             },
             {
-                "exchangeCourse": "PCB4522 Molecular Genetics",
-                "hkustCourse": "LIFS4000LEVEL 4000-level Course in Life Science (0 Cr)",
-                "hkustCode": "LIFS4000LEVEL"
+                "exchangeCourse": "PSY2012 General Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
             }
         ]
     },
@@ -1060,7 +1403,7 @@
             "IELTS": 6.5
         },
         "rank": 46,
-        "SplNotes": "College of Engineering students cannot take any courses offered by the College of Business, College of Law, or MSFE courses. Students in the Dual Degree Program should approach the Dual Degree Program Office for advice on taking courses in business and commerce.  \n Students with major in Computer Science, Mechanical Engineering and Electrical and Computer Engineering can take a maximum of two major courses and course enrollment is NOT guaranteed. Courses in computer science, electronic, mechanical engineering are difficult to enroll into. Students interested in Physics courses are limited to 3 courses per semester. \n Chemical Engineering is under the College of Liberal Arts and Science, so more time is needed to review the exchange application.",
+        "SplNotes": "Engineering students cannot take any courses offered by the College of Business, College of Law, or MSFE courses. Students in the Dual Degree Program should approach the Dual Degree Program Office for advice on taking courses in business and commerce. \n Students with major in Computer Science, Mechanical Engineering and Electrical and Computer Engineering can take a maximum of two major courses and course enrolment is NOT guaranteed. Students interested in Physics courses are limited to 3 courses per semester. \n Chemical Engineering is under the College of Liberal Arts and Science, so more time is needed to review the exchange application.",
         "location": [
             40.102,
             -88.227
@@ -1079,7 +1422,103 @@
                 "snippet": "Cookie Notice. We use Cookies on this site to enhance your experience and improve our marketing efforts. Click on “About Cookies” to learn more."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CEE310 Transportation Engineering",
+                "hkustCourse": "CIVL3610 Traffic and Transportation Engineering (3 Cr)",
+                "hkustCode": "CIVL3610"
+            },
+            {
+                "exchangeCourse": "CEE450 Surface Hydrology",
+                "hkustCourse": "CIVL3510 Hydrosystems Engineering (3 Cr)",
+                "hkustCode": "CIVL3510"
+            },
+            {
+                "exchangeCourse": "CS241 System Programming",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "CS411 Database Systems",
+                "hkustCourse": "COMP3311 Database Management Systems (3 Cr)",
+                "hkustCode": "COMP3311"
+            },
+            {
+                "exchangeCourse": "CS412 Introduction to Data Mining",
+                "hkustCourse": "COMP4331 Data Mining (3 Cr)",
+                "hkustCode": "COMP4331"
+            },
+            {
+                "exchangeCourse": "CS427 Software Engineering I",
+                "hkustCourse": "COMP3111 Software Engineering (4 Cr)",
+                "hkustCode": "COMP3111"
+            },
+            {
+                "exchangeCourse": "CS438 Communication Networks",
+                "hkustCourse": "COMP4621 Computer Communication Networks I (3 Cr)",
+                "hkustCode": "COMP4621"
+            },
+            {
+                "exchangeCourse": "CS440 Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "CS461 Computer Security I",
+                "hkustCourse": "COMP4631 Computer and Communication Security (3 Cr)",
+                "hkustCode": "COMP4631"
+            },
+            {
+                "exchangeCourse": "ECE313 Probability with Engineering Application",
+                "hkustCourse": "MATH2421 Probability (4 Cr)",
+                "hkustCode": "MATH2421"
+            },
+            {
+                "exchangeCourse": "ECON302 Intermediate Microeconomic Theory",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "ECON471 Introduction to Applied Econometrics",
+                "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)",
+                "hkustCode": "ECON3334"
+            },
+            {
+                "exchangeCourse": "FIN321 Advanced Corporate Finance /  Corporate Finance",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FIN412 Options and Futures Marktes",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "GER101 Beginning German I",
+                "hkustCourse": "LANG1320 German in the World of Science and Technology (3 Cr)",
+                "hkustCode": "LANG1320"
+            },
+            {
+                "exchangeCourse": "IE420 Financial Engineering",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "MATH415 Applied Linear Algebra",
+                "hkustCourse": "MATH2111 Matrix Algebra and Applications (3 Cr)",
+                "hkustCode": "MATH2111"
+            },
+            {
+                "exchangeCourse": "MATH461 Probability Theory",
+                "hkustCourse": "ISOM3540 Introduction to Probability Models (3 Cr)",
+                "hkustCode": "ISOM3540"
+            },
+            {
+                "exchangeCourse": "PSYC100 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            }
+        ]
     },
     {
         "id": 29,
@@ -1092,7 +1531,7 @@
             "IELTS": 6.5
         },
         "rank": 65,
-        "SplNotes": "Exchange students should plan to take a few elective classes as well as 2 or 3 classes in their major discipline of study. Students are expected to select their first choice classes and an alternative class list with their application. Registration for any particular classes at UMD is not guaranteed.  \n Students will need to have maximum flexibility in course choices from the Computer Science department: priority is given to students who are Computer Science majors at their home institution. Students cannot enroll in more than two computer science classes per semester",
+        "SplNotes": "Exchange students should plan to take a few elective classes as well as 2 or 3 classes in their major discipline of study. Students are expected to select their first choice classes and an alternative class list with their application. Students will need to have maximum flexibility in course choices from the Computer Science department. Students cannot enrol in more than two computer science classes per semester",
         "location": [
             38.987,
             -76.943
@@ -1111,7 +1550,53 @@
                 "snippet": "This office provides students with a searchable database of rooms and apartments that are available for rent in College Park and the surrounding communities."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "# Banking and Financial Institutions",
+                "hkustCourse": "FINA4503 Banking and Financial Intermediation (3 Cr)",
+                "hkustCode": "FINA4503"
+            },
+            {
+                "exchangeCourse": "BMGT402 Database Systems",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "BMGT403 System Analysis and Design",
+                "hkustCourse": "ISOM3210 Information Systems Analysis and Design (3 Cr)",
+                "hkustCode": "ISOM3210"
+            },
+            {
+                "exchangeCourse": "BMGT440 Advanced Financial Management / Advanced Financial Mgmt",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "BMGT446 International Finance",
+                "hkustCourse": "FINA4403 International Finance (3 Cr)",
+                "hkustCode": "FINA4403"
+            },
+            {
+                "exchangeCourse": "BMGT450 Integrated Marketing Communications",
+                "hkustCourse": "MARK3410 Promotion and Advertising Management (4 Cr)",
+                "hkustCode": "MARK3410"
+            },
+            {
+                "exchangeCourse": "BMGT461 Entrepreneurship",
+                "hkustCourse": "MGMT4220 Entrepreneurship and Innovation (4 Cr)",
+                "hkustCode": "MGMT4220"
+            },
+            {
+                "exchangeCourse": "MKTG454/BMGT454 Global Marketing",
+                "hkustCourse": "MARK3430 Global Marketing (4 Cr)",
+                "hkustCode": "MARK3430"
+            },
+            {
+                "exchangeCourse": "PHIL170 Introduction to Logic",
+                "hkustCourse": "HUMA1720 Logic (3 Cr)",
+                "hkustCode": "HUMA1720"
+            }
+        ]
     },
     {
         "id": 30,
@@ -1156,7 +1641,7 @@
             "IELTS": 6.5
         },
         "rank": 26,
-        "SplNotes": "Closed to Computer Science and Computer Engineering. Students admitted to other departments will not be allowed to take courses from Computer Science and Computer Engineering. \n Spring term exchange (i.e. Jan to April) is available only at the following programs: \n -Bioengineering \n -Chemical Engineering \n -Civil Engineering, and Civil and Environmental Engineering \n -Industrial Engineering and Engineering Management ",
+        "SplNotes": "Closed to Computer Science and Computer Engineering. Students admitted to other departments will not be allowed to take courses from Computer Science and Computer Engineering. \n Spring term exchange is available only for Bioengineering, Chemical Engineering, Civil Engineering and Industrial Engineering and Engineering Management",
         "location": [
             42.278,
             -83.738
@@ -1175,7 +1660,23 @@
                 "snippet": "FHC investigates complaints of illegal housing discrimination in six counties (including Washtenaw) in Michigan. Student Life Logo. G-664 ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "EECS445 Introduction to Machine Learning / Intro Machine Learn",
+                "hkustCourse": "COMP4331 Data Mining (3 Cr)",
+                "hkustCode": "COMP4331"
+            },
+            {
+                "exchangeCourse": "MATH216 Introduction to Differential Equations / Intro Diff Equat",
+                "hkustCourse": "MATH2351 Introduction to Differential Equations (3 Cr)",
+                "hkustCode": "MATH2351"
+            },
+            {
+                "exchangeCourse": "PSYCH111/PSY111 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            }
+        ]
     },
     {
         "id": 32,
@@ -1188,7 +1689,7 @@
             "IELTS": 6.5
         },
         "rank": 71,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             44.974,
             -93.228
@@ -1207,7 +1708,23 @@
                 "snippet": "Live With Us. UMN-TC Thumbnail. Live With Us, Do Better In Class. Statistics show students living ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "BBE4713 Biological Processing Engineering",
+                "hkustCourse": "CENG4620 Bioproducts and Processing (3 Cr)",
+                "hkustCode": "CENG4620"
+            },
+            {
+                "exchangeCourse": "ESPM1011 Issues in the Environment",
+                "hkustCourse": "LIFS1030 Environmental Science (3 Cr)",
+                "hkustCode": "LIFS1030"
+            },
+            {
+                "exchangeCourse": "PSY1001 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            }
+        ]
     },
     {
         "id": 33,
@@ -1220,7 +1737,7 @@
             "IELTS": "NA"
         },
         "rank": 8,
-        "SplNotes": "Students cannot take courses from the Faculty of Medicine. Enrollment into online courses, PG psychology, dance and music courses and any courses that are part of an honours program is very restrictive.  \n Closed to RMBI students. \n All exchange students are required to live on campus.",
+        "SplNotes": "Closed to RMBI students. \n All exchange students are required to live on campus.",
         "location": [
             39.952,
             -75.193
@@ -1241,6 +1758,11 @@
         ],
         "courses": [
             {
+                "exchangeCourse": "CIS121 Programming Languages and Techniques II: Data Structures in Java",
+                "hkustCourse": "COMP3711 Design and Analysis of Algorithms (3 Cr)",
+                "hkustCode": "COMP3711"
+            },
+            {
                 "exchangeCourse": "CIS160 Mathematical Foundation of Computer Science",
                 "hkustCourse": "COMPA&T Computer Science Track Course (3 Cr)",
                 "hkustCode": "COMPA&T"
@@ -1256,6 +1778,11 @@
                 "hkustCode": "COMP3511"
             },
             {
+                "exchangeCourse": "CIS450/550 Database & Information Systems (eqv code: CIS450)",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
                 "exchangeCourse": "ECON050 International Economics",
                 "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
                 "hkustCode": "ECON4364"
@@ -1266,9 +1793,24 @@
                 "hkustCode": "ECON4114"
             },
             {
+                "exchangeCourse": "ENM251 Analytical Methods in Engineering",
+                "hkustCourse": "MATH2352 Differential Equations (4 Cr)",
+                "hkustCode": "MATH2352"
+            },
+            {
+                "exchangeCourse": "FNCE100 Corporate Finance",
+                "hkustCourse": "FINA2303 Financial Management (3 Cr)",
+                "hkustCode": "FINA2303"
+            },
+            {
                 "exchangeCourse": "FNCE203 Advanced Corporate Finance ",
                 "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
                 "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FNCE205/720 Investment Management",
+                "hkustCourse": "FINA3103 Intermediate Investments (3 Cr)",
+                "hkustCode": "FINA3103"
             },
             {
                 "exchangeCourse": "FNCE206 Financial Derivatives (eqv code: FNCE717)",
@@ -1294,6 +1836,11 @@
                 "exchangeCourse": "STAT430 Probability",
                 "hkustCourse": "MATH2411 Applied Statistics (4 Cr)",
                 "hkustCode": "MATH2411"
+            },
+            {
+                "exchangeCourse": "STAT433 Stochastic Process",
+                "hkustCourse": "MATH3425 Stochastic Modeling (3 Cr)",
+                "hkustCode": "MATH3425"
             }
         ]
     },
@@ -1308,7 +1855,7 @@
             "IELTS": 6.5
         },
         "rank": 23,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             34.022,
             -118.285
@@ -1359,24 +1906,19 @@
                 "hkustCode": "ECON4284"
             },
             {
+                "exchangeCourse": "FBE391 Real Estate Finance and Investment",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
                 "exchangeCourse": "FBE421 Financial Analysis and Valuation",
                 "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)",
                 "hkustCode": "FINA4013"
             },
             {
-                "exchangeCourse": "FBE423 Introduction to Venture Capital and Private Equity",
-                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
-                "hkustCode": "FINA3000LEVEL"
-            },
-            {
                 "exchangeCourse": "FBE432 Corporate Financial Strategy",
                 "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
                 "hkustCode": "FINA3303"
-            },
-            {
-                "exchangeCourse": "FBE437 Entrepreneurial Finance: Financial Management for Developing Firms",
-                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (4 Cr)",
-                "hkustCode": "FINA3000LEVEL"
             },
             {
                 "exchangeCourse": "FBE441 Investments",
@@ -1389,9 +1931,9 @@
                 "hkustCode": "FINA3203"
             },
             {
-                "exchangeCourse": "FBE460 Mergers, Acquisitions and Restructuring",
-                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (4 Cr)",
-                "hkustCode": "FINA4000LEVEL"
+                "exchangeCourse": "LING110G In a Word",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
             },
             {
                 "exchangeCourse": "MKT405 Advertising and Promotion Strategy",
@@ -1436,7 +1978,7 @@
             "IELTS": 7
         },
         "rank": 28,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             38.034,
             -78.508
@@ -1462,11 +2004,6 @@
                 "hkustCode": "ISOM3540"
             },
             {
-                "exchangeCourse": "# Probability / Introduction to Probability",
-                "hkustCourse": "MATH2421 Probability (4 Cr)",
-                "hkustCode": "MATH2421"
-            },
-            {
                 "exchangeCourse": "COMM3110 Intermediate Accounting I",
                 "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)",
                 "hkustCode": "ACCT3010"
@@ -1482,19 +2019,14 @@
                 "hkustCode": "FINA4000LEVEL"
             },
             {
-                "exchangeCourse": "COMM4720 Advanced Corporate Finance: Valuation and Restructuring",
-                "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)",
-                "hkustCode": "FINA4013"
-            },
-            {
-                "exchangeCourse": "COMM4780 Quantitative Finance Seminar",
-                "hkustCourse": "FINA4003 Wealth Management (3 Cr)",
-                "hkustCode": "FINA4003"
-            },
-            {
                 "exchangeCourse": "ECON3020 Intermediate Macroeconomics",
                 "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
                 "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "MATH3351 Elementary Linear Algebra",
+                "hkustCourse": "MATH2121 Linear Algebra (4 Cr)",
+                "hkustCode": "MATH2121"
             },
             {
                 "exchangeCourse": "PSYC1010 Introductory Psychology",
@@ -1570,7 +2102,63 @@
                 "snippet": "The University of Wisconsin-Madison and the Division of University Housing are ... For information regarding housing accommodation requests (i.e. ADA, accessibility, allergies, dietary concerns, etc.) ... A student and advisor in the Witte CCAS."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "ECON301 Intermediate Microeconomic Theory",
+                "hkustCourse": "OTHRFREE Free Credits (4 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "FINANCE325 Corporate Finance / Corporation Finance",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FINANCE330 Derivative Securities",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "FINANCE410 Bank Management",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FINANCE445 Multinational Business Finance",
+                "hkustCourse": "FINA4403 International Finance (3 Cr)",
+                "hkustCode": "FINA4403"
+            },
+            {
+                "exchangeCourse": "GERMAN101 First Semester German",
+                "hkustCourse": "LANG1320 German in the World of Science and Technology (3 Cr)",
+                "hkustCode": "LANG1320"
+            },
+            {
+                "exchangeCourse": "MHR423 Strategic Management",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)",
+                "hkustCode": "MGMT4210"
+            },
+            {
+                "exchangeCourse": "OTM421 Fundamental Supply Chain Management",
+                "hkustCourse": "ISOM3770 Global Supply Chain Management (4 Cr)",
+                "hkustCode": "ISOM3770"
+            },
+            {
+                "exchangeCourse": "PHYSICS115 Energy",
+                "hkustCourse": "PHYS1003 Energy and Related Environmental Issues (3 Cr)",
+                "hkustCode": "PHYS1003"
+            },
+            {
+                "exchangeCourse": "PHYSIOL335 Physiology",
+                "hkustCourse": "LIFS3040 Animal Physiology (3 Cr)+ LIFS3220 Animal Physiology Laboratory (3 Cr)",
+                "hkustCode": "LIFS3040"
+            },
+            {
+                "exchangeCourse": "PSYCH202 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            }
+        ]
     },
     {
         "id": 38,
@@ -1583,7 +2171,7 @@
             "IELTS": 7
         },
         "rank": 16,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             36.145,
             -86.803
@@ -1602,13 +2190,7 @@
                 "snippet": "Transfer Student Housing. Undergraduate Residential Requirement. Vanderbilt University is a residential campus for undergraduate students, and the ..."
             }
         ],
-        "courses": [
-            {
-                "exchangeCourse": "CE3250 Gedotechnical Engineering",
-                "hkustCourse": "CIVL3730 Fundamentals of Geotechnics (3 Cr)",
-                "hkustCode": "CIVL3730"
-            }
-        ]
+        "courses": []
     },
     {
         "id": 39,
@@ -1621,7 +2203,7 @@
             "IELTS": "NA"
         },
         "rank": 19,
-        "SplNotes": "",
+        "SplNotes": "NA",
         "location": [
             38.649,
             -90.311
@@ -1642,14 +2224,19 @@
         ],
         "courses": [
             {
-                "exchangeCourse": "ACCT(B50)3610 Intermediate Financial Accounting Theory I",
-                "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)",
-                "hkustCode": "ACCT3010"
-            },
-            {
                 "exchangeCourse": "FIN441(B52) Investments",
                 "hkustCourse": "FINA3103 Intermediate Investments (3 Cr)",
                 "hkustCode": "FINA3103"
+            },
+            {
+                "exchangeCourse": "FIN447(B52) Information, Intermediation, and Financial Markets",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "FIN447(B52) Information, Intermediation, and Financial Markets",
+                "hkustCourse": "FINA4503 Banking and Financial Intermediation (3 Cr)",
+                "hkustCode": "FINA4503"
             },
             {
                 "exchangeCourse": "MGT(B53)380 Business Strategy",

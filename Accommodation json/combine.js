@@ -68,4 +68,4 @@ locationJSON.forEach(element => {
 });
 // console.log(compare);
 let output = JSON.stringify(locationJSON);
-fs.writeFileSync('join_link_location.json', output);
+fs.writeFileSync('combine.json', output);

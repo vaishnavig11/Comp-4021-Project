@@ -2,13 +2,21 @@ var request = require("request");
 var cheerio = require("cheerio");
 const fs = require("fs");
 var httpUrl = "https://crtran.ust.hk/credit_instit"
-var base = 'https://crtran.ust.hk/credit_instit?asOfTermCode=1910' //&orgID='
+var base = 'https://crtran.ust.hk/credit_instit?asOfTermCode=' //&orgID='
 //var uurl = ""
 var uurl = 'https://crtran.ust.hk/credit_instit?asOfTermCode=1910&orgID=B0249'
 var nameurl = 'https://seng.ust.hk/academics/undergraduate/exchange'
 
-let rawdata = fs.readFileSync('join_link_location.json');
+let rawdata = fs.readFileSync('combine.json');
 let inputJSON = JSON.parse(rawdata);
+
+let current = new Date();
+//          [Jan  ,  Feb,  Mar,  Apr,  May,  Jun,  Jul,  Aug,  Sep,  Oct,  Nov, Dec ]
+//         Winter | Spring              | Summer      | Fall                    | Winter
+let month = ["20" , "30", "30", "30", "40", "40", "40", "10", "10", "10", "10", "20"];
+base += current.getFullYear().toString().substr(-2, 2) + month[current.getMonth()-1];
+
+console.log(base);
 
 var uniList = []
 
@@ -16,12 +24,29 @@ var uniList = []
 /* inputJSON.forEach(element => {
     element.link = ""
 }); */
-
+function clean(words) {
+    words = words.replace(/&/g, "and");
+    words = words.replace(/the/g, "");
+    words = words.replace(/The/g, "");
+    words = words.replace(/-/g, "");
+    if (words.includes("University of Illinois,")){
+        words = words.substring(0, words.indexOf(","));
+        console.log(words);
+    }
+    if (words.includes("Stony Brook"))
+    words = "Stony Brook";
+    words = words.replace(/,/g, "");
+    words = words.replace(/ /g, "");
+    words = words.toLowerCase();
+    if (words.includes("illinois"))
+        console.log(words);
+    return words;  
+}
 
 // for credit transfer
 inputJSON.forEach(element => {
     element.courses = [];
-    uniList[element.id - 1] = element.name;
+    uniList[element.id - 1] = clean(element.ustName);
 });
 
 // request.get(httpUrl,function(err,res,body){
@@ -48,7 +73,9 @@ request.get(base,function(err,res,body){
         $ = cheerio.load(body);
         $('tr').each(function(i, elem) {
             // comparing the
-            let index = uniList.indexOf($(this).children().first().children().first().children().first().text());
+            let uniName = clean($(this).children().first().children().first().children().first().text());
+            let compareName = (ele) => uniName.includes(ele) || ele.includes(uniName);
+            let index = uniList.findIndex(compareName);
             if (index !== -1) {
                 item = {
                     // university name: $(this).children().first().children().first().children().first().text()
@@ -64,7 +91,7 @@ request.get(base,function(err,res,body){
     }
     let output = JSON.stringify(inputJSON);
     // fs.writeFileSync('credit_transfer.json', output);
-    fs.writeFileSync('join_link_location_credit.json', output);
+    fs.writeFileSync('final.json', output);
     //console.log(inputJSON);
     // for(var i = 1; i < course.length; i ++){
     //     console.log(course[i])
