@@ -22,7 +22,7 @@ try {
   console.error(err)
 }
 
-let rawdata = fs.readFileSync('startinginfo.json');
+let rawdata = fs.readFileSync('StartingInfo.json');
 
 var resultsLinks = [];
 let inputJSON = JSON.parse(rawdata);
