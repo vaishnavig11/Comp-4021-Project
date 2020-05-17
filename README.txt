@@ -1,16 +1,17 @@
 NodeJS Files
 1. ranking.js: Crawls and stores the rank of each university and stores it in rank.json 
 2. location.js: Crawls and stores the location coordinates of each university and stores it in location.json 
-3. accommodation.js: Crawl and stores the accommodation information of the different universities via google search and stores it in accommodation.json 
-4. ust_info_scraper.js: Crawls and stores the official website links and credit transfer information for each university in link.json and credit_transfer.json
-5. combine.js: Combines credit_transfer.json and location.json, matchs the name of the universities and stores it in combine.json
+3. ust_link.js: Crawls and stores the official website links for each university in link.json
+4. accommodation.js: Crawl and stores the accommodation information of the different universities via google search and stores it in accommodation.json 
+5. combine.js: Combines accommodation.json and location.json, matchs the name of the universities and stores it in combine.json
+6. ust_info_scraper.js: Crawls and stores the credit transfer information for each university, combine all json file into a single file, and output in final.json
 
 JSON Files
 1. StartingInfo.json: Basic information about each exchange institution: University Name, Program Duration, CGA and Language Requirements, Special Notes from SENG
 2. rank.json: Generated when ranking.js is executed: Additional field 'rank' included. 
 3. location.json: Generated when location.js is executed: Additional field 'location' included. 
 4. accommodation.json: Generated when accommodation.js is executed: Additional field 'accommodation_res' included. 
-5. link.json: Generated when ust_info_scraper.js is executed: Additional field 'link' included. 
+5. link.json: Generated when ust_link.js is executed: Additional field 'link' included. 
 6. credit_transfer.json: Generated when ust_info_scraper.js is executed: Additional field 'courses' included. (deleted because its content is scraped when final.json is generated)
 7. combine.json: Generated when combine.js is executed.
 8. final.json: Generated when ust_info_scraper.js is executed: Final JSON file read by the Browser (HTML) to display information in the UI.
@@ -22,7 +23,7 @@ Update JSON File
 Execute the NodeJS files in below order to update the JSON files. 
 1. ranking.js
 2. location.js
-3. ust_info_scraper.js (for generate link.json)
+3. ust_link.js
 4. accommodation.js
 5. combine.js
-6. ust_info_scraper.js (for generate final.json)
+6. ust_info_scraper.js
