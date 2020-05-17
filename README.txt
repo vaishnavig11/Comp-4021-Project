@@ -13,9 +13,13 @@ JSON Files
 5. link.json: Generated when ust_info_scraper.js is executed: Additional field 'link' included. 
 6. credit_transfer.json: Generated when ust_info_scraper.js is executed: Additional field 'courses' included. (deleted because its content is scraped when final.json is generated)
 7. combine.json: Generated when combine.js is executed.
-8. final.json: Final JSON file read by the Browser (HTML) to display information in the UI. (where exactly is this generated?)
+8. final.json: Final JSON file read by the Browser (HTML) to display information in the UI. (where exactly is this generated?- Victor)
 
 HTML Files
 1. exchange.html: This file reads the information stored in Join_link_location_credit.json and displayes the information on a USA Map.
 
-
+Update JSON File
+Execute the NodeJS files in below order to update the JSON files. 
+1. ranking.js
+2. location.js
+3. Victor pls write the order for your files
