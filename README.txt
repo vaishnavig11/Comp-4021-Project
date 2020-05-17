@@ -2,8 +2,8 @@ NodeJS Files
 1. ranking.js: Crawls and stores the rank of each university and stores it in rank.json 
 2. location.js: Crawls and stores the location coordinates of each university and stores it in location.json 
 3. accommodation.js: Crawl and stores the accommodation information of the different universities via google search and stores it in accommodation.json 
-4. ust_info_scraper.js: Crawls and stores the official website links and credit transfer information for each university in link.json and credit_transfer.json
-5. combine.js: Combines credit_transfer.json and location.json, matchs the name of the universities and stores it in combine.json
+4. ust_info_scraper.js: Crawls and stores the official website links and credit transfer information for each university in link.json, credit_transfer.json and final.json
+5. combine.js: Combines credit_transfer.json and location.json, matches the name of the universities and stores it in combine.json
 
 JSON Files
 1. StartingInfo.json: Basic information about each exchange institution: University Name, Program Duration, CGA and Language Requirements, Special Notes from SENG
@@ -16,13 +16,12 @@ JSON Files
 8. final.json: Generated when ust_info_scraper.js is executed: Final JSON file read by the Browser (HTML) to display information in the UI.
 
 HTML Files
-1. exchange.html: This file reads the information stored in Join_link_location_credit.json and displayes the information on a USA Map.
+1. exchange.html: This file reads the information stored in final.json and displayes the information on a USA Map.
 
-Update JSON File
-Execute the NodeJS files in below order to update the JSON files. 
+Procedure to Update the JSON File With Latest Information: Execute the NodeJS files in below order to update the JSON files and generate final.json which is read by the HTML file to display updated information in the browser
 1. ranking.js
 2. location.js
-3. ust_info_scraper.js (for generate link.json)
+3. ust_info_scraper.js (to generate link.json)
 4. accommodation.js
 5. combine.js
-6. ust_info_scraper.js (for generate final.json)
+6. ust_info_scraper.js (to generate final.json)
