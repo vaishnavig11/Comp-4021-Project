@@ -1,11 +1,7 @@
 var request = require("request");
 var cheerio = require("cheerio");
 const fs = require("fs");
-var httpUrl = "https://crtran.ust.hk/credit_instit"
 var base = 'https://crtran.ust.hk/credit_instit?asOfTermCode=' //&orgID='
-//var uurl = ""
-var uurl = 'https://crtran.ust.hk/credit_instit?asOfTermCode=1910&orgID=B0249'
-var nameurl = 'https://seng.ust.hk/academics/undergraduate/exchange'
 
 let rawdata = fs.readFileSync('combine.json');
 let inputJSON = JSON.parse(rawdata);
@@ -20,10 +16,6 @@ console.log(base);
 
 var uniList = []
 
-// for scrap link
-/* inputJSON.forEach(element => {
-    element.link = ""
-}); */
 function clean(words) {
     words = words.replace(/&/g, "and");
     words = words.replace(/the/g, "");
@@ -43,28 +35,14 @@ function clean(words) {
     return words;  
 }
 
-// for credit transfer
+// prepare the properties of each Uni object
 inputJSON.forEach(element => {
     element.courses = [];
     uniList[element.id - 1] = clean(element.ustName);
 });
 
-// request.get(httpUrl,function(err,res,body){
-//     if(!err){
-//         $ = cheerio.load(body);
-//         $('option').each(function(i, elem) {
-//             if($(this).text() == 'Rice University') {
-//                 uurl = base + $(this).attr('value')
-//                 console.log(uurl)
-//                 return;
-//             }
-//         });
-//     }
-// });
-
-// for generate join_link_location_credit.json
+// for generate final.json (add credit transfer info)
 request.get(base,function(err,res,body){
-    //var course = [];
     var item = {
         exchangeCourse: "",
         hkustCourse: ""
@@ -84,46 +62,9 @@ request.get(base,function(err,res,body){
                     hkustCode: $(this).children().first().next().text().split(" ")[0]
                 }
                 inputJSON[index].courses.push(item);
-                //course.push(item);
-                //course[i] = $(this).children().first().next().text();//.split(" ")[0] ;
             }
         });
     }
     let output = JSON.stringify(inputJSON);
-    // fs.writeFileSync('credit_transfer.json', output);
     fs.writeFileSync('final.json', output);
-    //console.log(inputJSON);
-    // for(var i = 1; i < course.length; i ++){
-    //     console.log(course[i])
-    // }
 });
-
-// for generate link.json
-/* request.get(nameurl,function(err,res,body){
-    let university = []
-    if(!err){
-        $ = cheerio.load(body);
-        $('div').each(function(i, elem) {
-            if ($(this).text() == 'United States of America') {
-                $ = cheerio.load($(this).next().html())
-                $('li a').each(function(i, elem) {
-                    inputJSON.name
-                    let uniJSON ={
-                        id: i+1,
-                        link: $(this).attr('href'),
-                        name: $(this).text()
-                    };
-                    // console.log($(this).attr('href')+" "+$(this).text()+" #"+i);
-                    university.push(uniJSON);
-                })  
-            }
-        })
-    } 
-    for(var i = 1; i < university.length; i ++){
-        console.log(university[i]);
-    }
-    let output = JSON.stringify(university);
-	fs.writeFileSync('link.json', output);
-}); */
-
-
