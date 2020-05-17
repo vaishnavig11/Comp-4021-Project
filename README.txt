@@ -17,10 +17,9 @@ JSON Files
 8. final.json: Generated when ust_info_scraper.js is executed: Final JSON file read by the Browser (HTML) to display information in the UI.
 
 HTML Files
-1. exchange.html: This file reads the information stored in Join_link_location_credit.json and displayes the information on a USA Map.
+1. exchange.html: This file reads the information stored in final.json and displayes the information on a USA Map.
 
-Update JSON File
-Execute the NodeJS files in below order to update the JSON files. 
+Procedure to Update the JSON File With Latest Information: Execute the NodeJS files in below order to update the JSON files and generate final.json which is read by the HTML file to display updated information in the browser
 1. ranking.js
 2. location.js
 3. ust_link.js
