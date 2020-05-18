@@ -678,7 +678,223 @@
             }
         ],
         "creditCode": "B0083",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "BLAW340 International Business Law",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "CHE360 Bioprocess Principles",
+                "hkustCourse": "CENG4620 Bioproducts and Processing (3 Cr)",
+                "hkustCode": "CENG4620"
+            },
+            {
+                "exchangeCourse": "CHEM241 Organic Chemistry I",
+                "hkustCourse": "CHEM2110 Organic Chemistry I (3 Cr)",
+                "hkustCode": "CHEM2110"
+            },
+            {
+                "exchangeCourse": "CHEM241 Organic Chemistry I",
+                "hkustCourse": "CHEM2111 Fundamentals of Organic Chemistry (3 Cr)",
+                "hkustCode": "CHEM2111"
+            },
+            {
+                "exchangeCourse": "CIVE410 Foundation Engineering",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "CIVE510 Prestressed Concrete",
+                "hkustCourse": "CIVL4000LEVEL 4000-level Course in Civil and Environmental Engineering (0 Cr)",
+                "hkustCode": "CIVL4000LEVEL"
+            },
+            {
+                "exchangeCourse": "CIVE530 Geotechnical Engineering for Highways",
+                "hkustCourse": "CIVL4000LEVEL 4000-level Course in Civil and Environmental Engineering (0 Cr)",
+                "hkustCode": "CIVL4000LEVEL"
+            },
+            {
+                "exchangeCourse": "CS171 Computer Programming 1",
+                "hkustCourse": "COMP2011 Introduction to Object-oriented Programming (4 Cr)",
+                "hkustCode": "COMP2011"
+            },
+            {
+                "exchangeCourse": "CS275 Web and Mobile App Development",
+                "hkustCourse": "COMP4521 Mobile Application Development (3 Cr)",
+                "hkustCode": "COMP4521"
+            },
+            {
+                "exchangeCourse": "CS360 Programming Language Concepts",
+                "hkustCourse": "COMPS&D Computer Science Track Course (3 Cr)",
+                "hkustCode": "COMPS&D"
+            },
+            {
+                "exchangeCourse": "CS380-002 Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "ECON250 Game Theory & Applications",
+                "hkustCourse": "ECON4124 Applied Game Theory (4 Cr)",
+                "hkustCode": "ECON4124"
+            },
+            {
+                "exchangeCourse": "ECON334 Public Finance",
+                "hkustCourse": "ECON4000LEVEL 4000-level Course in Economics (3 Cr)",
+                "hkustCode": "ECON4000LEVEL"
+            },
+            {
+                "exchangeCourse": "ECON350 Applied Econometrics",
+                "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)",
+                "hkustCode": "ECON3334"
+            },
+            {
+                "exchangeCourse": "ECON365 Behavioral Economics",
+                "hkustCourse": "ECON4000LEVEL 4000-level Course in Economics (4 Cr)",
+                "hkustCode": "ECON4000LEVEL"
+            },
+            {
+                "exchangeCourse": "ECON616 Public Finance & Cost Benefit Analysis (CBA)",
+                "hkustCourse": "ECON4000LEVEL 4000-level Course in Economics (3 Cr)",
+                "hkustCode": "ECON4000LEVEL"
+            },
+            {
+                "exchangeCourse": "FIN302 Intermediate Corporate Finance",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FIN325 Financial Institutions and Markets",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (2 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FIN332 Financial Statement Analysis",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FINA332 Investment Analysis",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "INFO210 Database Management Systems",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "INFO371 Data Mining Application",
+                "hkustCourse": "ISOM3360 Data Mining for Business Analytics (3 Cr)",
+                "hkustCode": "ISOM3360"
+            },
+            {
+                "exchangeCourse": "LING101 Introduction to Linguistics",
+                "hkustCourse": "HUMAUCORE Common Core Course in Humanities (0 Cr)",
+                "hkustCode": "HUMAUCORE"
+            },
+            {
+                "exchangeCourse": "MGMT450 Strategy and Competitive Advantage",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)",
+                "hkustCode": "MGMT4210"
+            },
+            {
+                "exchangeCourse": "MIS342 Systems Analysis and Design",
+                "hkustCourse": "ISOM3210 Information Systems Analysis and Design (3 Cr)",
+                "hkustCode": "ISOM3210"
+            },
+            {
+                "exchangeCourse": "MIS343 Database Design and Implementation",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "MIS346 MIS Strategy",
+                "hkustCourse": "ISOM3000IS 3000-level Course in Information Systems, Business Statistics and Operations Management (3 Cr)",
+                "hkustCode": "ISOM3000IS"
+            },
+            {
+                "exchangeCourse": "MIS361 Information Systems Project Management / Info Sys Projcts",
+                "hkustCourse": "ISOM3010 Information Systems Project Management (3 Cr)",
+                "hkustCode": "ISOM3010"
+            },
+            {
+                "exchangeCourse": "MKTG322 Advertising & Integrated Marketing Communications",
+                "hkustCourse": "MARK3410 Promotion and Advertising Management (4 Cr)",
+                "hkustCode": "MARK3410"
+            },
+            {
+                "exchangeCourse": "MKTG326 Marketing Insights",
+                "hkustCourse": "MARK3220 Marketing Research (4 Cr)",
+                "hkustCode": "MARK3220"
+            },
+            {
+                "exchangeCourse": "MKTG348 Services Marketing (Online)",
+                "hkustCourse": "MARK3470 Services Marketing (4 Cr)",
+                "hkustCode": "MARK3470"
+            },
+            {
+                "exchangeCourse": "MKTG348 Services Marketing",
+                "hkustCourse": "MARK3470 Services Marketing (4 Cr)",
+                "hkustCode": "MARK3470"
+            },
+            {
+                "exchangeCourse": "MKTG356 Consumer Behavior",
+                "hkustCourse": "MARK3420 Consumer Behavior (4 Cr)",
+                "hkustCode": "MARK3420"
+            },
+            {
+                "exchangeCourse": "MKTG357 Global marketing",
+                "hkustCourse": "MARK3430 Global Marketing (4 Cr)",
+                "hkustCode": "MARK3430"
+            },
+            {
+                "exchangeCourse": "MKTG380 Seminar in Marketing Strategy",
+                "hkustCourse": "MARK4210 Strategic Marketing (4 Cr)",
+                "hkustCode": "MARK4210"
+            },
+            {
+                "exchangeCourse": "MUSC121 Music Theory I",
+                "hkustCourse": "HUMA2104 Music Theory I (0 Cr)",
+                "hkustCode": "HUMA2104"
+            },
+            {
+                "exchangeCourse": "OPM315 Service Operations Management",
+                "hkustCourse": "ISOM3740 Service Management (3 Cr)",
+                "hkustCode": "ISOM3740"
+            },
+            {
+                "exchangeCourse": "OPM321 Planning and Control of Operations",
+                "hkustCourse": "ISOM2700 Operations Management (3 Cr)",
+                "hkustCode": "ISOM2700"
+            },
+            {
+                "exchangeCourse": "OPM325 Advanced Planning and Control of Operations",
+                "hkustCourse": "ISOM3000OM 3000-level Course in Information Systems, Business Statistics and Operations Management (3 Cr)",
+                "hkustCode": "ISOM3000OM"
+            },
+            {
+                "exchangeCourse": "PHTO110 Photography",
+                "hkustCourse": "HART1012 Introduction to Photography (1 Cr)",
+                "hkustCode": "HART1012"
+            },
+            {
+                "exchangeCourse": "PSCI100 Introduction to Political Science",
+                "hkustCourse": "SOSC1000SACC 1000-level Course in Social Science (3 Cr)",
+                "hkustCode": "SOSC1000SACC"
+            },
+            {
+                "exchangeCourse": "SOC230 Gender and Society",
+                "hkustCourse": "SOSC2740 Gender and Society (3 Cr)",
+                "hkustCode": "SOSC2740"
+            },
+            {
+                "exchangeCourse": "THTR143 Musical Theatre Cabaret ",
+                "hkustCourse": "ARTCUCORE Common Core Course in Arts (1 Cr)",
+                "hkustCode": "ARTCUCORE"
+            }
+        ]
     },
     {
         "id": 4,
@@ -1323,7 +1539,128 @@
             }
         ],
         "creditCode": "B0196",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "# Entrepreneurship Bootcamp",
+                "hkustCourse": "ENTR1001 Entrepreneurship 1001: Building Your Own Future (3 Cr)",
+                "hkustCode": "ENTR1001"
+            },
+            {
+                "exchangeCourse": "# International Financial Management",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "BUS291 Introduction to Business / Business Intelligence Resources",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "CSE331 Algorithms & Data Structure",
+                "hkustCourse": "COMP3711 Design and Analysis of Algorithms (3 Cr)",
+                "hkustCode": "COMP3711"
+            },
+            {
+                "exchangeCourse": "CSE410 Operation Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "CSE422 Computer Network",
+                "hkustCourse": "COMP4621 Computer Communication Networks I (3 Cr)",
+                "hkustCode": "COMP4621"
+            },
+            {
+                "exchangeCourse": "CSE476 Mobile Application Development",
+                "hkustCourse": "COMP4521 Mobile Application Development (3 Cr)",
+                "hkustCode": "COMP4521"
+            },
+            {
+                "exchangeCourse": "CSE480 Database Systems",
+                "hkustCourse": "COMP3311 Database Management Systems (3 Cr)",
+                "hkustCode": "COMP3311"
+            },
+            {
+                "exchangeCourse": "CSE482 Big Data Analysis",
+                "hkustCourse": "COMP4331 Data Mining (3 Cr)",
+                "hkustCode": "COMP4331"
+            },
+            {
+                "exchangeCourse": "EC301 Intermediate Microeconomics",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "EC330 Money, Banking and Financial Markets",
+                "hkustCourse": "ECON4334 Money and Banking (4 Cr)",
+                "hkustCode": "ECON4334"
+            },
+            {
+                "exchangeCourse": "HNF150 Introduction to Human Nutrition",
+                "hkustCourse": "LIFS3000LEVEL 3000-level Course in Life Science (3 Cr)",
+                "hkustCode": "LIFS3000LEVEL"
+            },
+            {
+                "exchangeCourse": "ITM311 System Analysis & Design",
+                "hkustCourse": "ISOM3210 Information Systems Analysis and Design (3 Cr)",
+                "hkustCode": "ISOM3210"
+            },
+            {
+                "exchangeCourse": "LIN200 Introduction to Language",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "ME426 Introduction to Composite Materials",
+                "hkustCourse": "MECH4000LEVEL 4000-level Course in Mechanical Engineering (3 Cr)",
+                "hkustCode": "MECH4000LEVEL"
+            },
+            {
+                "exchangeCourse": "ME426 Introduction to Composite Materials",
+                "hkustCourse": "MECHMAOP Mechanical Engineering Elective in Material (3 Cr)",
+                "hkustCode": "MECHMAOP"
+            },
+            {
+                "exchangeCourse": "ME433 Computational Fluid Dynamics and Heat Transfer",
+                "hkustCourse": "MECH4000LEVEL 4000-level Course in Mechanical Engineering (3 Cr)",
+                "hkustCode": "MECH4000LEVEL"
+            },
+            {
+                "exchangeCourse": "MKT302 Consumer Behavior",
+                "hkustCourse": "MARK3420 Consumer Behavior (4 Cr)",
+                "hkustCode": "MARK3420"
+            },
+            {
+                "exchangeCourse": "MKT351 Retail Management",
+                "hkustCourse": "MARK3460 Retailing (4 Cr)",
+                "hkustCode": "MARK3460"
+            },
+            {
+                "exchangeCourse": "PHL101 Introduction to Philosophy",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "PSY101 Introductory Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            },
+            {
+                "exchangeCourse": "PSY280 Abnormal Psychology",
+                "hkustCourse": "SOSC2000LEVEL 2000-level Course in Social Science (3 Cr)",
+                "hkustCode": "SOSC2000LEVEL"
+            },
+            {
+                "exchangeCourse": "REL325 East Asian Buddhism",
+                "hkustCourse": "HUMA2000LEVEL 2000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA2000LEVEL"
+            },
+            {
+                "exchangeCourse": "SCM304 Survey of Supply Chain Management",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            }
+        ]
     },
     {
         "id": 8,
@@ -5451,7 +5788,123 @@
             }
         ],
         "creditCode": "B0413",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CHE120B Transport Processes ",
+                "hkustCourse": "CENG3220 Heat and Mass Transfer (3 Cr)",
+                "hkustCode": "CENG3220"
+            },
+            {
+                "exchangeCourse": "CHIN80 Masterpieces of Chinese Literature",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "CMPSC174B Design and Implementation Techniques of Database Systems",
+                "hkustCourse": "COMP3311 Database Management Systems (3 Cr)",
+                "hkustCode": "COMP3311"
+            },
+            {
+                "exchangeCourse": "CMPSC32 Object Oriented Design and Implementation/ OBJ ORIENT DESIGN (eqv code: CS32)",
+                "hkustCourse": "COMP2012 Object-Oriented Programming and Data Structures (4 Cr)",
+                "hkustCode": "COMP2012"
+            },
+            {
+                "exchangeCourse": "CS170/CMPSC170 Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "EACS140 Indigenous Movements in Asia",
+                "hkustCourse": "HUMA2000SACC 2000-level Course in Humanities (2 Cr)",
+                "hkustCode": "HUMA2000SACC"
+            },
+            {
+                "exchangeCourse": "ECE158 Digital Signal Processing",
+                "hkustCourse": "ELEC3100 Signal Processing and Communications (4 Cr)",
+                "hkustCode": "ELEC3100"
+            },
+            {
+                "exchangeCourse": "ECE178 Digital Signal Processing",
+                "hkustCourse": "ELEC4130 Digital Image Processing (3 Cr)",
+                "hkustCode": "ELEC4130"
+            },
+            {
+                "exchangeCourse": "ECON1 Principles of Economics-Micro",
+                "hkustCourse": "SACCUCORE Common Core Course in Social Analysis (3 Cr)",
+                "hkustCode": "SACCUCORE"
+            },
+            {
+                "exchangeCourse": "HIST2B World History, 1000-1700",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "MATH104A Numerical Analysis",
+                "hkustCourse": "MATH3312 Numerical Analysis (3 Cr)",
+                "hkustCode": "MATH3312"
+            },
+            {
+                "exchangeCourse": "MATH115A Intro Number Theory",
+                "hkustCourse": "MATH4141 Number Theory and Applications (3 Cr)",
+                "hkustCode": "MATH4141"
+            },
+            {
+                "exchangeCourse": "MATH116 COMB ANALYSIS",
+                "hkustCourse": "MATH3343 Combinatorial Analysis (3 Cr)",
+                "hkustCode": "MATH3343"
+            },
+            {
+                "exchangeCourse": "MATH117 Methods of Analysis",
+                "hkustCourse": "MATH2033 Mathematical Analysis (4 Cr)",
+                "hkustCode": "MATH2033"
+            },
+            {
+                "exchangeCourse": "MATH145 INTRO TO TOPOLOGY",
+                "hkustCourse": "MATH4225 Topology (3 Cr)",
+                "hkustCode": "MATH4225"
+            },
+            {
+                "exchangeCourse": "MATH240B Intro Diff Geometry",
+                "hkustCourse": "MATH4223 Differential Geometry (0 Cr)",
+                "hkustCode": "MATH4223"
+            },
+            {
+                "exchangeCourse": "MATHCS122A COMPLEX1+ MATHCS122B COMPLEX2",
+                "hkustCourse": "MATH4023 Complex Analysis (3 Cr)",
+                "hkustCode": "MATH4023"
+            },
+            {
+                "exchangeCourse": "PSTAT160A Applied Stochastic Processes",
+                "hkustCourse": "MATH3425 Stochastic Modeling (3 Cr)",
+                "hkustCode": "MATH3425"
+            },
+            {
+                "exchangeCourse": "PSTAT170 Introduction to Mathematical Finance",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "PSTAT174/274 Time Series",
+                "hkustCourse": "MATH4425 Introductory Time Series (3 Cr)",
+                "hkustCode": "MATH4425"
+            },
+            {
+                "exchangeCourse": "RGST32 Contemporary Chinese Religions",
+                "hkustCourse": "HUMA2000HMCC 2000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA2000HMCC"
+            },
+            {
+                "exchangeCourse": "THTR5 Introduction to Acting",
+                "hkustCourse": "HART1022 Introduction to Acting (1 Cr)",
+                "hkustCode": "HART1022"
+            },
+            {
+                "exchangeCourse": "WRIT125 Special Topics in Writing",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            }
+        ]
     },
     {
         "id": 26,
@@ -6654,7 +7107,33 @@
             }
         ],
         "creditCode": "B0448",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CMPSCI373+497C Introduction to Computer Graphics",
+                "hkustCourse": "COMP4411 Computer Graphics (3 Cr)",
+                "hkustCode": "COMP4411"
+            },
+            {
+                "exchangeCourse": "CMPSCI383 Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "COMPSCI514 Algorithms for Data Science",
+                "hkustCourse": "COMP4331 Data Mining (3 Cr)",
+                "hkustCode": "COMP4331"
+            },
+            {
+                "exchangeCourse": "COMPSCI589 Machine Learning",
+                "hkustCourse": "COMP4211 Machine Learning (3 Cr)",
+                "hkustCode": "COMP4211"
+            },
+            {
+                "exchangeCourse": "CS337 Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            }
+        ]
     },
     {
         "id": 31,
@@ -7151,7 +7630,323 @@
             }
         ],
         "creditCode": "B0452",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "# Political Economy of Development ",
+                "hkustCourse": "SOSC4000LEVEL 4000-level Course in Social Science (3 Cr)",
+                "hkustCode": "SOSC4000LEVEL"
+            },
+            {
+                "exchangeCourse": "# Thermal Sciences III/ Heat Transfer",
+                "hkustCourse": "MECH3310 Heat Transfer (3 Cr)",
+                "hkustCode": "MECH3310"
+            },
+            {
+                "exchangeCourse": "ACCT5102 Intermediate Accounting II",
+                "hkustCourse": "ACCT3020 Financial Accounting II (3 Cr)",
+                "hkustCode": "ACCT3020"
+            },
+            {
+                "exchangeCourse": "ACCT5125W Auditing",
+                "hkustCourse": "ACCT4510 Auditing (3 Cr)",
+                "hkustCode": "ACCT4510"
+            },
+            {
+                "exchangeCourse": "AEM4203 Aerospace Propulsion",
+                "hkustCourse": "MECH3660 Gas Turbines and Jet Propulsion (3 Cr)",
+                "hkustCode": "MECH3660"
+            },
+            {
+                "exchangeCourse": "AEM4303W Flight Dynamics and Control ",
+                "hkustCourse": "MECH3670 Aircraft Performance and Stability (3 Cr)",
+                "hkustCode": "MECH3670"
+            },
+            {
+                "exchangeCourse": "AEM4601 Instrumentation Laboratory",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "BBE4713 Biological Processing Engineering",
+                "hkustCourse": "CENG4620 Bioproducts and Processing (3 Cr)",
+                "hkustCode": "CENG4620"
+            },
+            {
+                "exchangeCourse": "BBE4723 Principles of Food Engineering",
+                "hkustCourse": "CENG4630 Food Processing Technology (3 Cr)",
+                "hkustCode": "CENG4630"
+            },
+            {
+                "exchangeCourse": "CEGE3201 Transportation Engineering",
+                "hkustCourse": "CIVL3610 Traffic and Transportation Engineering (3 Cr)",
+                "hkustCode": "CIVL3610"
+            },
+            {
+                "exchangeCourse": "CEGE4101 Project Management and Engineering Economics",
+                "hkustCourse": "CIVL4250 Project Management and Finance (3 Cr)",
+                "hkustCode": "CIVL4250"
+            },
+            {
+                "exchangeCourse": "CEGE4301 Soil Mechanics II",
+                "hkustCourse": "CIVL3740 Geotechnical Analysis and Design (3 Cr)",
+                "hkustCode": "CIVL3740"
+            },
+            {
+                "exchangeCourse": "CEGE4401 Steel and Reinforced Concrete Design",
+                "hkustCourse": "CIVL4320 Structural Steel Design (3 Cr)",
+                "hkustCode": "CIVL4320"
+            },
+            {
+                "exchangeCourse": "CEGE4411 Matrix Structural Analysis",
+                "hkustCourse": "CIVL4370 Computer Methods of Structural Analysis (3 Cr)",
+                "hkustCode": "CIVL4370"
+            },
+            {
+                "exchangeCourse": "CHEM2301 Elementary Organic Chemistry 1 / Organic Chemistry I",
+                "hkustCourse": "CHEM2110 Organic Chemistry I (3 Cr)",
+                "hkustCode": "CHEM2110"
+            },
+            {
+                "exchangeCourse": "CHEM2301 Elementary Organic Chemistry 1 / Organic Chemistry I",
+                "hkustCourse": "CHEM2111 Fundamentals of Organic Chemistry (3 Cr)",
+                "hkustCode": "CHEM2111"
+            },
+            {
+                "exchangeCourse": "CHEN3102 Reaction Kinetics and Reactor Engineering",
+                "hkustCourse": "CENG3230 Chemical and Biological Reaction Engineering (3 Cr)",
+                "hkustCode": "CENG3230"
+            },
+            {
+                "exchangeCourse": "CMGT2019 AutoCad for Construction Managers",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "CMGT3011 Construction Plan Reading",
+                "hkustCourse": "CIVL4000LEVEL 4000-level Course in Civil and Environmental Engineering (3 Cr)",
+                "hkustCode": "CIVL4000LEVEL"
+            },
+            {
+                "exchangeCourse": "CSCI1133 Introduction to Computing and Programming Concepts ",
+                "hkustCourse": "COMP1021 Introduction to Computer Science (3 Cr)",
+                "hkustCode": "COMP1021"
+            },
+            {
+                "exchangeCourse": "CSCI4011 Formal Languages and Automata Theory",
+                "hkustCourse": "COMP3721 Theory of Computation (3 Cr)",
+                "hkustCode": "COMP3721"
+            },
+            {
+                "exchangeCourse": "CSCI4041 Algorithms and Data Structures",
+                "hkustCourse": "COMP3711 Design and Analysis of Algorithms (3 Cr)",
+                "hkustCode": "COMP3711"
+            },
+            {
+                "exchangeCourse": "CSCI4061 Introduction to Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "CSCI4511W Introduction to Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "CSCI4611 Programming Interactive Computer Graphics and Games",
+                "hkustCourse": "COMP4451 Game Programming (3 Cr)",
+                "hkustCode": "COMP4451"
+            },
+            {
+                "exchangeCourse": "CSCI4707 Practice of Database Systems",
+                "hkustCourse": "COMP4311 Principles of Database Design (3 Cr)",
+                "hkustCode": "COMP4311"
+            },
+            {
+                "exchangeCourse": "CSCI5302 Analysis of Numerical Algorithms",
+                "hkustCourse": "MATH3312 Numerical Analysis (3 Cr)",
+                "hkustCode": "MATH3312"
+            },
+            {
+                "exchangeCourse": "CSCI5521 Introduction to Machine Learning",
+                "hkustCourse": "COMP4211 Machine Learning (3 Cr)",
+                "hkustCode": "COMP4211"
+            },
+            {
+                "exchangeCourse": "CSCI5525 Machine Learning",
+                "hkustCourse": "COMP4211 Machine Learning (3 Cr)",
+                "hkustCode": "COMP4211"
+            },
+            {
+                "exchangeCourse": "ECON4211 Principles of Econometrics",
+                "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)",
+                "hkustCode": "ECON3334"
+            },
+            {
+                "exchangeCourse": "ECON4401 International Economics",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
+                "hkustCode": "ECON4364"
+            },
+            {
+                "exchangeCourse": "ECON4751 Financial Economics",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "EEB3407 Ecology",
+                "hkustCourse": "LIFS3160 Ecology (3 Cr)",
+                "hkustCode": "LIFS3160"
+            },
+            {
+                "exchangeCourse": "ENGL1301W Introduction to Multicultural Literatures of the United States",
+                "hkustCourse": "HUMA1300 Introduction to Western Literature (3 Cr)",
+                "hkustCode": "HUMA1300"
+            },
+            {
+                "exchangeCourse": "ESCI1106 Oceanography (eqv code: ESCI1006)",
+                "hkustCourse": "ENVS2004 Introduction to Ocean Science (3 Cr)",
+                "hkustCode": "ENVS2004"
+            },
+            {
+                "exchangeCourse": "ESL3402 Research Writing for the American University / Research Writing",
+                "hkustCourse": "LANG2030 Technical Communication I (3 Cr)",
+                "hkustCode": "LANG2030"
+            },
+            {
+                "exchangeCourse": "ESPM1011 Issues in the Environment",
+                "hkustCourse": "LIFS1030 Environmental Science (3 Cr)",
+                "hkustCode": "LIFS1030"
+            },
+            {
+                "exchangeCourse": "ESPM3604 Environmental Management Systems and Strategy (eqv code: MGMT5604)",
+                "hkustCourse": "ENVR3310 Green Business Strategy (3 Cr)",
+                "hkustCode": "ENVR3310"
+            },
+            {
+                "exchangeCourse": "ESPM5251 Natural Resources in Sustainable International Development (eqv code: ESPM3251)",
+                "hkustCourse": "ENVR3110 Sustainable Development (3 Cr)",
+                "hkustCode": "ENVR3110"
+            },
+            {
+                "exchangeCourse": "FINA4121 Financial Markets and Interest Rates",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "FINA4221 Principles of Corporate Finance",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FINA4621 The Global Economy (Macro) ",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "FNRM3131 Introduction to Geographic Information Systems / GIS for Natural Resources",
+                "hkustCourse": "ENVR4330 Environmental Geographical Information System (3 Cr)",
+                "hkustCode": "ENVR4330"
+            },
+            {
+                "exchangeCourse": "HIST3478 Tigers and Dragons:  The Rise of the East Asian Economies, 1930-2012",
+                "hkustCourse": "SOSC3410 East Asian Economic Development (3 Cr)",
+                "hkustCode": "SOSC3410"
+            },
+            {
+                "exchangeCourse": "HRIR3021 Human Resource Management and Strategy",
+                "hkustCourse": "MGMT3110 Human Resources Management (4 Cr)",
+                "hkustCode": "MGMT3110"
+            },
+            {
+                "exchangeCourse": "IDSC3103 Data Modeling and Database / DataModeling",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "IDSC4401 Information Security",
+                "hkustCourse": "ISOM3000IS 3000-level Course in Information Systems, Business Statistics and Operations Management (2 Cr)",
+                "hkustCode": "ISOM3000IS"
+            },
+            {
+                "exchangeCourse": "LING3001 Introduction to Linguistics",
+                "hkustCourse": "HUMA1010 Introduction to Language (3 Cr)",
+                "hkustCode": "HUMA1010"
+            },
+            {
+                "exchangeCourse": "MATH4281 Introduction to Modern Algebra",
+                "hkustCourse": "MATH3121 Abstract Algebra (3 Cr)",
+                "hkustCode": "MATH3121"
+            },
+            {
+                "exchangeCourse": "MATH4604 Advanced Calculus II",
+                "hkustCourse": "MATH3033 Real Analysis (4 Cr)",
+                "hkustCode": "MATH3033"
+            },
+            {
+                "exchangeCourse": "MATH5467 Introduction to the Mathematics of Image and Data Analysis",
+                "hkustCourse": "MATH4336 Introduction to Mathematics of Image Processing (3 Cr)",
+                "hkustCode": "MATH4336"
+            },
+            {
+                "exchangeCourse": "MGMT3004 Business Strategy",
+                "hkustCourse": "MGMT4210 Corporate Strategy (3 Cr)",
+                "hkustCode": "MGMT4210"
+            },
+            {
+                "exchangeCourse": "MGMT3010 Introduction to Entrepreneurship",
+                "hkustCourse": "MGMT4220 Entrepreneurship and Innovation (4 Cr)",
+                "hkustCode": "MGMT4220"
+            },
+            {
+                "exchangeCourse": "MGMT3040 The International Environment of Firms",
+                "hkustCourse": "MGMT3000LEVEL 3000-level Course in Management (2 Cr)",
+                "hkustCode": "MGMT3000LEVEL"
+            },
+            {
+                "exchangeCourse": "MGMT4002 The Psychology of Management",
+                "hkustCourse": "MGMT3120 Managerial Leadership (4 Cr)",
+                "hkustCode": "MGMT3120"
+            },
+            {
+                "exchangeCourse": "MGMT4040 Negotiations / Negotiation Strategies",
+                "hkustCourse": "MGMT3140 Negotiation (4 Cr)",
+                "hkustCode": "MGMT3140"
+            },
+            {
+                "exchangeCourse": "MUS1051 Class Piano for Non Music Majors",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "MUS3430 Campus Orchestras",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "PA4200 Urban & Regional Planning",
+                "hkustCourse": "ENVR3000LEVEL 3000-level Course in Environment (0 Cr)",
+                "hkustCode": "ENVR3000LEVEL"
+            },
+            {
+                "exchangeCourse": "PHIL1001 Introduction to Logic",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (4 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "PSY1001 Introduction to Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            },
+            {
+                "exchangeCourse": "SCO3051 Service Management",
+                "hkustCourse": "ISOM3000OM 3000-level Course in Information Systems, Business Statistics and Operations Management (0 Cr)",
+                "hkustCode": "ISOM3000OM"
+            },
+            {
+                "exchangeCourse": "SOSC3801 Sociological Research Methods",
+                "hkustCourse": "SOSC2140 Research Methods in the Social Sciences (3 Cr)",
+                "hkustCode": "SOSC2140"
+            }
+        ]
     },
     {
         "id": 33,
@@ -7688,7 +8483,428 @@
             }
         ],
         "creditCode": "B0475",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "ART120 Painting I",
+                "hkustCourse": "HART1021 A Contemporary Approach to Painting (1 Cr)",
+                "hkustCode": "HART1021"
+            },
+            {
+                "exchangeCourse": "BISC120L General Biology: Organismal Biology and Evolution",
+                "hkustCourse": "LIFS1000LEVEL 1000-level Course in Life Science (0 Cr)",
+                "hkustCode": "LIFS1000LEVEL"
+            },
+            {
+                "exchangeCourse": "BISC180 Evolution",
+                "hkustCourse": "LIFS2000LEVEL 2000-level Course in Life Science (0 Cr)",
+                "hkustCode": "LIFS2000LEVEL"
+            },
+            {
+                "exchangeCourse": "BISC220L General Biology: Cell Biology and Physiology",
+                "hkustCourse": "LIFS2000LEVEL 2000-level Course in Life Science (0 Cr)",
+                "hkustCode": "LIFS2000LEVEL"
+            },
+            {
+                "exchangeCourse": "BISC230 The Biology of the Brain: Current Topics in Neuroscience",
+                "hkustCourse": "LIFS3000LEVEL 3000-level Course in Life Science (0 Cr)",
+                "hkustCode": "LIFS3000LEVEL"
+            },
+            {
+                "exchangeCourse": "BUAD307 Marketing Fundamentals",
+                "hkustCourse": "MARK2120 Marketing Management (3 Cr)",
+                "hkustCode": "MARK2120"
+            },
+            {
+                "exchangeCourse": "BUAD425 Data Analysis for Decision Making",
+                "hkustCourse": "ISOM3360 Data Mining for Business Analytics (3 Cr)",
+                "hkustCode": "ISOM3360"
+            },
+            {
+                "exchangeCourse": "BUCO450 Communication for Organizations: Exploring Creativity",
+                "hkustCourse": "ENTR3000LEVEL 3000-level Course in Entrepreneurship (2 Cr)",
+                "hkustCode": "ENTR3000LEVEL"
+            },
+            {
+                "exchangeCourse": "CE471 Principles of Transportation Engineering",
+                "hkustCourse": "IEDA3901 Transportation Systems (3 Cr)",
+                "hkustCode": "IEDA3901"
+            },
+            {
+                "exchangeCourse": "CHE350 Introduction to Separation Processes",
+                "hkustCourse": "CENG3210 Separation Processes (3 Cr)",
+                "hkustCode": "CENG3210"
+            },
+            {
+                "exchangeCourse": "CHE446 Mass Transfer in Chemical Engineering Processes",
+                "hkustCourse": "CENG3220 Heat and Mass Transfer (3 Cr)",
+                "hkustCode": "CENG3220"
+            },
+            {
+                "exchangeCourse": "CHEM103LXG General Chemistry for the Environment and Life",
+                "hkustCourse": "CHEM1004 Chemistry in Everyday Life (3 Cr)",
+                "hkustCode": "CHEM1004"
+            },
+            {
+                "exchangeCourse": "CHEM205LG Criminalistics:  the Science, and Its Impact",
+                "hkustCourse": "CHEM1000LEVEL 1000-level Course in Chemistry (0 Cr)",
+                "hkustCode": "CHEM1000LEVEL"
+            },
+            {
+                "exchangeCourse": "CSCI103 Introduction to Programming",
+                "hkustCourse": "COMP2011 Programming with C++ (4 Cr)",
+                "hkustCode": "COMP2011"
+            },
+            {
+                "exchangeCourse": "CSCI104 Data Structures and Object Oriented Design",
+                "hkustCourse": "COMP2012 Object-Oriented Programming and Data Structures (4 Cr)",
+                "hkustCode": "COMP2012"
+            },
+            {
+                "exchangeCourse": "CSCI270 Introduction to Algorithms and Theory of Computing",
+                "hkustCourse": "COMP3711 Design and Analysis of Algorithms (3 Cr)",
+                "hkustCode": "COMP3711"
+            },
+            {
+                "exchangeCourse": "CSCI353 Introduction to Internet working",
+                "hkustCourse": "COMP4621 Computer Communication Networks I (3 Cr)",
+                "hkustCode": "COMP4621"
+            },
+            {
+                "exchangeCourse": "CSCI360 Introduction to Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "CSCI420 Computer Graphics",
+                "hkustCourse": "COMP4411 Computer Graphics (3 Cr)",
+                "hkustCode": "COMP4411"
+            },
+            {
+                "exchangeCourse": "CSCI426 Game Prototyping",
+                "hkustCourse": "COMPG&M Computer Science Track Course (3 Cr)",
+                "hkustCode": "COMPG&M"
+            },
+            {
+                "exchangeCourse": "CSCI467 Introduction to Machine Learning",
+                "hkustCourse": "COMP4211 Machine Learning (3 Cr)",
+                "hkustCode": "COMP4211"
+            },
+            {
+                "exchangeCourse": "CSCI485 File and Database Management",
+                "hkustCourse": "COMP3311 Database Management Systems (3 Cr)",
+                "hkustCode": "COMP3311"
+            },
+            {
+                "exchangeCourse": "CTAN330 Animation Fundamentals",
+                "hkustCourse": "HUMA1000ARTC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000ARTC"
+            },
+            {
+                "exchangeCourse": "CTPR460 The Movie Business Seminar Film Business Procedures and Distribution",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (1 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "DSO/IOM-435 Enterprise Data Architecture / Business Database Systems",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "DSO428 Essentials and Digital Frontiers of Big Data",
+                "hkustCourse": "ISOM3000IS 3000-level Course in Information Systems, Business Statistics and Operations Management (4 Cr)",
+                "hkustCode": "ISOM3000IS"
+            },
+            {
+                "exchangeCourse": "DSO462 Managing a Small Business on the Internet",
+                "hkustCourse": "ISOM3000IS 3000-level Course in Information Systems, Business Statistics and Operations Management (2 Cr)",
+                "hkustCode": "ISOM3000IS"
+            },
+            {
+                "exchangeCourse": "DSO581 Supply Chain Management",
+                "hkustCourse": "IEDA4410 Data Driven Supply Chain Management (3 Cr)",
+                "hkustCode": "IEDA4410"
+            },
+            {
+                "exchangeCourse": "ECON318 Introduction to Econometrics (eqv code: ECON414)",
+                "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)",
+                "hkustCode": "ECON3334"
+            },
+            {
+                "exchangeCourse": "ECON357 Money, Credit, and Banking",
+                "hkustCourse": "ECON4334 Money and Banking (4 Cr)",
+                "hkustCode": "ECON4334"
+            },
+            {
+                "exchangeCourse": "ECON419 Advanced Econometrics",
+                "hkustCourse": "ECON4284 Econometrics for Cross-Section and Panel Data (4 Cr)",
+                "hkustCode": "ECON4284"
+            },
+            {
+                "exchangeCourse": "ENGL262 English Literature since 1800",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "ENGL263 American Literature",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "ENGLISH261 English Literature to 1800",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "ERSC150L Climate Change",
+                "hkustCourse": "CIVL1170 Big History, Sustainability and Climate Change (3 Cr)",
+                "hkustCode": "CIVL1170"
+            },
+            {
+                "exchangeCourse": "FBE391 Real Estate Finance and Investment",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "FBE421 Financial Analysis and Valuation",
+                "hkustCourse": "FINA4013 Corporate Valuation (3 Cr)",
+                "hkustCode": "FINA4013"
+            },
+            {
+                "exchangeCourse": "FBE423 Introduction to Venture Capital and Private Equity",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FBE432 Corporate Financial Strategy",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FBE435 Applied Finance in Fixed Income Securities",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (4 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FBE437 Entrepreneurial Finance: Financial Management for Developing Firms",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (4 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FBE441 Investments",
+                "hkustCourse": "FINA3103 Intermediate Investments (3 Cr)",
+                "hkustCode": "FINA3103"
+            },
+            {
+                "exchangeCourse": "FBE459 Financial Derivatives",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "FBE460 Mergers, Acquisitions and Restructuring",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (4 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "FBE462 International Trade, Finance, and Commercial Policy",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
+                "hkustCode": "ECON4364"
+            },
+            {
+                "exchangeCourse": "FBE499 Applied Financial Modeling",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "GEOL107L Introduction to Oceanography",
+                "hkustCourse": "ENVS2004 Introduction to Ocean Science (3 Cr)",
+                "hkustCode": "ENVS2004"
+            },
+            {
+                "exchangeCourse": "GEOL125 Earth History: A Planet and Its Evolution",
+                "hkustCourse": "CIVL4000LEVEL 4000-level Course in Civil and Environmental Engineering (0 Cr)",
+                "hkustCode": "CIVL4000LEVEL"
+            },
+            {
+                "exchangeCourse": "GEOL240 Earthquakes",
+                "hkustCourse": "CIVL4000LEVEL 4000-level Course in Civil and Environmental Engineering (0 Cr)",
+                "hkustCode": "CIVL4000LEVEL"
+            },
+            {
+                "exchangeCourse": "HBIO200LG The Human Animal",
+                "hkustCourse": "LIFS2000STCC 2000-level Course in Life Science (3 Cr)",
+                "hkustCode": "LIFS2000STCC"
+            },
+            {
+                "exchangeCourse": "IML140 Viral​ ​Content,​ ​Brands​ ​and​ ​the​ ​Creative​ ​Process",
+                "hkustCourse": "MARK4000LEVEL 4000-level Course in Marketing (2 Cr)",
+                "hkustCode": "MARK4000LEVEL"
+            },
+            {
+                "exchangeCourse": "IOM401 Business Information Systems / Business Information Systems – Spreadsheet Applications  (eqv code: DSO401)",
+                "hkustCourse": "ISOM3000OM 3000-level Course in Information Systems, Business Statistics and Operations Management (2 Cr)",
+                "hkustCode": "ISOM3000OM"
+            },
+            {
+                "exchangeCourse": "ISE310L Facilities and Logistics",
+                "hkustCourse": "IEDA4200 Design of Logistics and Manufacturing Systems (3 Cr)",
+                "hkustCode": "IEDA4200"
+            },
+            {
+                "exchangeCourse": "ISE331 Introduction to Operations Research: Stochastic Models",
+                "hkustCourse": "IEDA3250 Operations Research II (3 Cr)",
+                "hkustCode": "IEDA3250"
+            },
+            {
+                "exchangeCourse": "ISE410 Production II: Planning and Scheduling",
+                "hkustCourse": "IEDA4100 Integrated Production Systems (3 Cr)",
+                "hkustCode": "IEDA4100"
+            },
+            {
+                "exchangeCourse": "ISE426 Statistical Quality Control",
+                "hkustCourse": "IEDA3270 Data-Driven Quality Technology (0 Cr)",
+                "hkustCode": "IEDA3270"
+            },
+            {
+                "exchangeCourse": "ISE460 Engineering Economy",
+                "hkustCourse": "IEDA3230 Engineering Economics and Accounting (3 Cr)",
+                "hkustCode": "IEDA3230"
+            },
+            {
+                "exchangeCourse": "ITP125 From Hackers to CEOs: An Introduction to Information Security",
+                "hkustCourse": "ISOM3000IS 3000-level Course in Information Systems, Business Statistics and Operations Management (2 Cr)",
+                "hkustCode": "ISOM3000IS"
+            },
+            {
+                "exchangeCourse": "ITP140 Mobile Application Technologies",
+                "hkustCourse": "COMP4521 Mobile Application Development (3 Cr)",
+                "hkustCode": "COMP4521"
+            },
+            {
+                "exchangeCourse": "ITP303 Full-Stack Web Development",
+                "hkustCourse": "COMP4021 Internet Computing (3 Cr)",
+                "hkustCode": "COMP4021"
+            },
+            {
+                "exchangeCourse": "ITP439 Compiler Development",
+                "hkustCourse": "COMPS&D Computer Science Track Course (4 Cr)",
+                "hkustCode": "COMPS&D"
+            },
+            {
+                "exchangeCourse": "LING110G In a Word",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "MKT402 Research Skills for Marketing Insights",
+                "hkustCourse": "MARK3220 Marketing Research (4 Cr)",
+                "hkustCode": "MARK3220"
+            },
+            {
+                "exchangeCourse": "MKT405 Advertising and Promotion Strategy",
+                "hkustCourse": "MARK3410 Promotion and Advertising Management (4 Cr)",
+                "hkustCode": "MARK3410"
+            },
+            {
+                "exchangeCourse": "MKT445 New Product Development and Branding",
+                "hkustCourse": "MARK4450 Brand Management (4 Cr)",
+                "hkustCode": "MARK4450"
+            },
+            {
+                "exchangeCourse": "MKT450 Consumer Behavior and Marketing",
+                "hkustCourse": "MARK3420 Consumer Behavior (4 Cr)",
+                "hkustCode": "MARK3420"
+            },
+            {
+                "exchangeCourse": "MKT465 Global Marketing Management",
+                "hkustCourse": "MARK3430 Global Marketing (4 Cr)",
+                "hkustCode": "MARK3430"
+            },
+            {
+                "exchangeCourse": "MOR462 Management Consulting",
+                "hkustCourse": "MGMT4250 Management Consulting (3 Cr)",
+                "hkustCode": "MGMT4250"
+            },
+            {
+                "exchangeCourse": "MOR466 Business and Environmental Sustainability",
+                "hkustCourse": "MGMT3160 Environmental Business Strategies (3 Cr)",
+                "hkustCode": "MGMT3160"
+            },
+            {
+                "exchangeCourse": "MOR469 Negotiation and Persuasion",
+                "hkustCourse": "MGMT3140 Negotiation (4 Cr)",
+                "hkustCode": "MGMT3140"
+            },
+            {
+                "exchangeCourse": "MOR471 Managing and Developing People",
+                "hkustCourse": "MGMT3110 Human Resources Management (4 Cr)",
+                "hkustCode": "MGMT3110"
+            },
+            {
+                "exchangeCourse": "MOR492 Global Strategy",
+                "hkustCourse": "MGMT4230 International Management (4 Cr)",
+                "hkustCode": "MGMT4230"
+            },
+            {
+                "exchangeCourse": "MPPM240 Drumming Proficiency for the Popular Musician",
+                "hkustCourse": "ARTCUCORE Common Core Course in Arts (2 Cr)",
+                "hkustCode": "ARTCUCORE"
+            },
+            {
+                "exchangeCourse": "MUSC422 The Beatles: Their Music and Their Times",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (4 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "NAUT001AX Deepwater Cruising",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "OT220 Lifestyle Design: Introduction to Occupational Therapy",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "OT310 Creativity Workshop ",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "PHYS135 Physics for the Life Sciences",
+                "hkustCourse": "PHYS1111 General Physics I (3 Cr)",
+                "hkustCode": "PHYS1111"
+            },
+            {
+                "exchangeCourse": "PHYS151 Fundamentals of Physics I: Mechanics and Thermodynamics",
+                "hkustCourse": "PHYS1112 General Physics I with Calculus (3 Cr)",
+                "hkustCode": "PHYS1112"
+            },
+            {
+                "exchangeCourse": "PHYS152 Fundamentals of Physics II: Electricity and Magnetism",
+                "hkustCourse": "PHYS1114 General Physics II (3 Cr)",
+                "hkustCode": "PHYS1114"
+            },
+            {
+                "exchangeCourse": "PSYC360 Abnormal Psychology",
+                "hkustCourse": "SOSC3900 Abnormal Psychology (3 Cr)",
+                "hkustCode": "SOSC3900"
+            },
+            {
+                "exchangeCourse": "SPAN120 Spanish I",
+                "hkustCourse": "LANG1330 Spanish and the Other America (3 Cr)",
+                "hkustCode": "LANG1330"
+            },
+            {
+                "exchangeCourse": "SSCI265LG The Water Planet",
+                "hkustCourse": "ENVR2000LEVEL 2000-level Course in Environment (0 Cr)",
+                "hkustCode": "ENVR2000LEVEL"
+            },
+            {
+                "exchangeCourse": "THTR122 Improvisation and Theatre Games",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
+            }
+        ]
     },
     {
         "id": 35,
@@ -7721,7 +8937,223 @@
             }
         ],
         "creditCode": "B0484",
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "# Probability / Introduction to Probability",
+                "hkustCourse": "ISOM3540 Introduction to Probability Models (3 Cr)",
+                "hkustCode": "ISOM3540"
+            },
+            {
+                "exchangeCourse": "# Probability / Introduction to Probability",
+                "hkustCourse": "MATH2421 Probability (4 Cr)",
+                "hkustCode": "MATH2421"
+            },
+            {
+                "exchangeCourse": "COMM2000 Business Skills-Todays Workspace",
+                "hkustCourse": "OTHRFREE Free Credits (1 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "COMM3110 Intermediate Accounting I",
+                "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)",
+                "hkustCode": "ACCT3010"
+            },
+            {
+                "exchangeCourse": "COMM3220 Database Management Systems & Business Intelligence / DB Mgmt Sys & Bus Intelligence",
+                "hkustCourse": "COMP3311 Database Management Systems (3 Cr)",
+                "hkustCode": "COMP3311"
+            },
+            {
+                "exchangeCourse": "COMM3220 Database Management Systems & Business Intelligence / DB Mgmt Sys & Bus Intelligence",
+                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
+                "hkustCode": "ISOM3260"
+            },
+            {
+                "exchangeCourse": "COMM3410 Commercial Law I",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "COMM3720 Intermediate Corporate Finance",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "COMM3790 Venture Capital & Emerging Firm",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "COMM4260 Business Analytics",
+                "hkustCourse": "ISOM3360 Data Mining for Business Analytics (3 Cr)",
+                "hkustCode": "ISOM3360"
+            },
+            {
+                "exchangeCourse": "COMM4261 Big Data",
+                "hkustCourse": "ISOM3000IS 3000-level Course in Information Systems, Business Statistics and Operations Management (0 Cr)",
+                "hkustCode": "ISOM3000IS"
+            },
+            {
+                "exchangeCourse": "COMM4559 Business Analytics with R",
+                "hkustCourse": "ISOM3390 Business Programming in R (3 Cr)",
+                "hkustCode": "ISOM3390"
+            },
+            {
+                "exchangeCourse": "COMM4660 Basics of Strategic Consulting",
+                "hkustCourse": "MGMT4250 Management Consulting (3 Cr)",
+                "hkustCode": "MGMT4250"
+            },
+            {
+                "exchangeCourse": "COMM4720 Advanced Corporate Finance: Valuation and Restructuring",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
+                "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "COMM4780 Quantitative Finance Seminar",
+                "hkustCourse": "FINA4003 Wealth Management (3 Cr)",
+                "hkustCode": "FINA4003"
+            },
+            {
+                "exchangeCourse": "CS4414 Operating Systems",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "CS4710 Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
+            },
+            {
+                "exchangeCourse": "DRAM1010 How Theatre Works",
+                "hkustCourse": "HUMA1000ARTC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000ARTC"
+            },
+            {
+                "exchangeCourse": "DRAM1010 How Theatre Works",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "ECE3103 Solid State Devices",
+                "hkustCourse": "ELEC3500 Microelectronic Devices and Technology (4 Cr)",
+                "hkustCode": "ELEC3500"
+            },
+            {
+                "exchangeCourse": "ECE3430 Introduction to Embedded Computer Systems",
+                "hkustCourse": "ELEC3300 Introduction to Embedded Systems (4 Cr)",
+                "hkustCode": "ELEC3300"
+            },
+            {
+                "exchangeCourse": "ECON3020 Intermediate Macroeconomics",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "ECON3050 The Economics of Welfare Reform",
+                "hkustCourse": "ECON4000LEVEL 4000-level Course in Economics (3 Cr)",
+                "hkustCode": "ECON4000LEVEL"
+            },
+            {
+                "exchangeCourse": "ECON4170 The Economics of Risk, Uncertainty, and Information",
+                "hkustCourse": "ECON4000LEVEL 4000-level Course in Economics (3 Cr)",
+                "hkustCode": "ECON4000LEVEL"
+            },
+            {
+                "exchangeCourse": "ECON4220 International Finance and Macroeconomics",
+                "hkustCourse": "ECON4374 International Macroeconomics and Finance (4 Cr)",
+                "hkustCode": "ECON4374"
+            },
+            {
+                "exchangeCourse": "HIEA2031 Modern China",
+                "hkustCourse": "HUMA1440 Modern China (3 Cr)",
+                "hkustCode": "HUMA1440"
+            },
+            {
+                "exchangeCourse": "HIST2214 The Cold War, 1945-1991",
+                "hkustCourse": "HUMA2000HMCC 2000-level Course in Humanities (2 Cr)",
+                "hkustCode": "HUMA2000HMCC"
+            },
+            {
+                "exchangeCourse": "MAE3610 Aerospace Materials",
+                "hkustCourse": "MECHAERO Mechanical Engineering Elective in Aerospace (0 Cr)",
+                "hkustCode": "MECHAERO"
+            },
+            {
+                "exchangeCourse": "MATH3351 Elementary Linear Algebra",
+                "hkustCourse": "MATH2121 Linear Algebra (4 Cr)",
+                "hkustCode": "MATH2121"
+            },
+            {
+                "exchangeCourse": "MATH4110 Introduction to Stochastic Processes",
+                "hkustCourse": "MATH3425 Stochastic Modeling (3 Cr)",
+                "hkustCode": "MATH3425"
+            },
+            {
+                "exchangeCourse": "MATH4140 Mathematics of Derivative Securities",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "PHIL1000 Introduction to Philosophy",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (2 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "PHIL1740 Issues in Life and Death",
+                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000HMCC"
+            },
+            {
+                "exchangeCourse": "PHYS2415 General Physics II: Electricity & Magnetism, Optics / Introductory Physics for Engineers II - Electricity, Magnetism, Waves and Light",
+                "hkustCourse": "PHYS1114 General Physics II (3 Cr)",
+                "hkustCode": "PHYS1114"
+            },
+            {
+                "exchangeCourse": "PLCP5550 Causal Inference in Comparative Politics",
+                "hkustCourse": "SOSC4000LEVEL 4000-level Course in Social Science (0 Cr)",
+                "hkustCode": "SOSC4000LEVEL"
+            },
+            {
+                "exchangeCourse": "PPOL6500 Topics in Public Policy / Data Wrangling",
+                "hkustCourse": "COMPS&D Computer Science Track Course (1 Cr)",
+                "hkustCode": "COMPS&D"
+            },
+            {
+                "exchangeCourse": "PSYC1010 Introductory Psychology",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            },
+            {
+                "exchangeCourse": "PSYC2600 Introduction to Social Psychology",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            },
+            {
+                "exchangeCourse": "RELC2360 Elements of Christian Thought",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "RELG1010 Intro Western Religious Trads",
+                "hkustCourse": "HUMA1000LEVEL 1000-level Course in Humanities (0 Cr)",
+                "hkustCode": "HUMA1000LEVEL"
+            },
+            {
+                "exchangeCourse": "SOC3490 Cities and Culture",
+                "hkustCourse": "SOSC3000LEVEL 3000-level Course in Social Science (0 Cr)",
+                "hkustCode": "SOSC3000LEVEL"
+            },
+            {
+                "exchangeCourse": "SOC3710 Organizations, Institutions, Markets",
+                "hkustCourse": "SOSC4000LEVEL 4000-level Course in Social Science (0 Cr)",
+                "hkustCode": "SOSC4000LEVEL"
+            },
+            {
+                "exchangeCourse": "SYS4000 Financial Aspects of Engineering",
+                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
+                "hkustCode": "OTHRFREE"
+            }
+        ]
     },
     {
         "id": 36,

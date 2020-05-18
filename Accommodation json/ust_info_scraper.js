@@ -47,15 +47,11 @@ function getTranCourse(link, index) {
         console.log(link);
         console.log(inputJSON[index].creditCode);
         request.get(link, function (err, res, body) {
-            var item = {
-                exchangeCourse: "",
-                hkustCourse: ""
-            }
             if (!err) {
                 $ = cheerio.load(body);
                 $('tbody tr').each(function (i, elem) {
                     // comparing the
-                    item = {
+                    let item = {
                         // university name: $(this).children().first().children().first().children().first().text()
                         exchangeCourse: $(this).children().first().children().first().children().first().next().text(),
                         hkustCourse: $(this).children().first().next().text(),
@@ -63,6 +59,7 @@ function getTranCourse(link, index) {
                     }
                     inputJSON[index].courses.push(item);
                 });
+                console.log(inputJSON[index].creditCode +"$('tbody tr') length: " + $('tbody tr').length + "courses[]: "+inputJSON[index].courses.length);
                 resolve(true);
             }
         });
@@ -78,9 +75,15 @@ function getAllTranCourse() {
 }
 
 let p = Promise.resolve();
-p = p.then(() => {
-    return getAllTranCourse();
-})
+
+for (let i = 0; i < inputJSON.length; i++) {
+    p = p.then(() => {
+        return getTranCourse(base + inputJSON[i].creditCode, i);
+    })
+}
+// p = p.then(() => {
+//     return getAllTranCourse();
+// })
 p.then(() => {
     let output = JSON.stringify(inputJSON);
     fs.writeFileSync('final.json', output);
