@@ -18,7 +18,8 @@
 # HTML Files
 1. exchange.html: This file reads the information stored in final.json and displays the information on a USA Map.
 
-## Procedure to Update the JSON File With Latest Information: Execute the NodeJS files in below order to update the JSON files and generate final.json which is read by the HTML file to display updated information in the browser
+## Update JSON File With Latest Information:
+Execute the NodeJS files in below order to update the JSON files and generate final.json which is read by the HTML file to display updated information in the browser
 1. ranking.js
 2. location.js
 3. ust_link.js
