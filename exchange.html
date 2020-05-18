@@ -2,6 +2,15 @@
 <html>
   <head>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+        function courseHelper (c) {
+            var s = ''
+            for(var i = 0; i < c.length;i++) {
+                s += '<div>' + c[i].hkustCourse + '</div>'
+            }
+            return s
+        }
+    </script>
     <style>
        /* Set the size of the div element that contains the map */
       body{
@@ -12,6 +21,27 @@
         height: 100vh;  /* The height is 400 pixels */
         width: 100%;  /* The width is the width of the web page */
        }
+      #content {
+          line-height: 1.6;
+          width: 375px;
+          max-height:300px;
+       }
+      #special{
+        overflow: hidden;
+        white-space:nowrap;
+        text-overflow:ellipsis;
+      }
+      #special:hover {
+        white-space: normal;
+      }
+      #course {
+        overflow: hidden;
+        white-space:nowrap;
+        text-overflow:ellipsis;         
+      }
+      #course:hover {
+          white-space:normal;
+      }
     </style>
   </head>
   <body>
@@ -32,7 +62,7 @@
             var data
             $.ajax({
                 async:false,
-                url: 'test.json',
+                url: 'final.json',
                 type: "GET",
                 dataType: "json",
                 success: function (result) {
@@ -48,14 +78,23 @@
                     info: u
                 })
                 markers[i].addListener('click', function () {
-                    var contentString ='<div id="content">'+
-                                            '<div><h2>'+markers[i].info.name+'</h2></div>'+
-                                            '<div> Engineering School Rank in USA: '+ markers[i].info.rank + '</div>'+
-                                            '<div> Term: '+ markers[i].info.term + '</div>'+
-                                            '<div> Mininum GPA Requirement: '+ markers[i].info.minCGA + '</div>'+
-                                            '<div> English Requirement: TOEFL(iBT): '+ markers[i].info.english.TOEFL_iBT +' TOEFL(pBT): '+ markers[i].info.english.TOEFL_PBT + ' IELTS: '+ markers[i].info.english.IELTS +'</div>'+
-                                            '<div> Special Note: '+ markers[i].info.SplNotes + '</div>'+
-                                        '</div>';
+                    var contentString =
+                    '<div id="content">'+
+                        '<div><h2>'+markers[i].info.name+'</h2></div>'+
+                        '<div> Engineering School Rank in USA: '+ markers[i].info.rank + '</div>'+
+                        '<div> Term: '+ markers[i].info.term + '</div>'+
+                        '<div> Mininum GPA Requirement: '+ markers[i].info.minCGA + '</div>'+
+                        '<div> English Requirement: TOEFL(iBT): '+ markers[i].info.english.TOEFL_iBT +
+                            ' TOEFL(pBT): '+ markers[i].info.english.TOEFL_PBT + ' IELTS: '+ markers[i].info.english.IELTS +'</div>'+
+                        '<div> Official Webstie Link: <a href="'+ markers[i].info.link + '">' + markers[i].info.link + ' </a></div>'+
+                        '<div> Accommodation: <a href="'+ markers[i].info.accommodation_res[0].link + '">Accommodation Link1 </a>'+
+                            ' <span> & </span> <a href="'+ markers[i].info.accommodation_res[1].link + '">Accommodation Link2 </a></div>'+  
+                        '<div id = "special"> Special Note: '+ markers[i].info.SplNotes + '</div>'+
+                        '<div> HKUST Courses Transfer: </div>'+     
+                        '<div id = "course"> '+
+                            courseHelper(markers[i].info.courses)+
+                        '</div>'+                                       
+                    '</div>';
                     var infowindow = new google.maps.InfoWindow({
                         content: contentString
                     })
