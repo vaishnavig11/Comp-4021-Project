@@ -1,0 +1,1 @@
+# Generate housing/accommodation information
