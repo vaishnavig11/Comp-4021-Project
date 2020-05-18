@@ -87,6 +87,11 @@
                 "exchangeCourse": "AEM4545 International Finance & Macroeconomics",
                 "hkustCourse": "ECON4374 International Macroeconomics and Finance (4 Cr)",
                 "hkustCode": "ECON4374"
+            },
+            {
+                "exchangeCourse": "CS4320 Introduction to Database Systems",
+                "hkustCourse": "COMP3311 Database Management Systems (3 Cr)",
+                "hkustCode": "COMP3311"
             }
         ]
     },
@@ -225,34 +230,14 @@
                 "hkustCode": "COMP3511"
             },
             {
-                "exchangeCourse": "CS3510 Design and Analysis of Algorithms",
-                "hkustCourse": "COMP3711 Design and Analysis of Algorithms (3 Cr)",
-                "hkustCode": "COMP3711"
-            },
-            {
                 "exchangeCourse": "CS3600 Introduction to Artificial Intelligence",
                 "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
                 "hkustCode": "COMP3211"
             },
             {
-                "exchangeCourse": "ECE4430 Analog Integrated Circuits",
-                "hkustCourse": "ELEC4420 Analogue Integrated Circuits Design and Analysis (0 Cr)",
-                "hkustCode": "ELEC4420"
-            },
-            {
-                "exchangeCourse": "HTS3061 Modern China",
-                "hkustCourse": "HUMA1440 Modern China (3 Cr)",
-                "hkustCode": "HUMA1440"
-            },
-            {
-                "exchangeCourse": "MATH2552 Differential Equations",
-                "hkustCourse": "MATH2351 Introduction to Differential Equations (3 Cr)",
-                "hkustCode": "MATH2351"
-            },
-            {
-                "exchangeCourse": "MATH2552 Differential Equations",
-                "hkustCourse": "MATH2352 Differential Equations (4 Cr)",
-                "hkustCode": "MATH2352"
+                "exchangeCourse": "ISYE3232 Stochastic Manufacturing and Service Systems",
+                "hkustCourse": "IEDA3250 Operations Research II (3 Cr)",
+                "hkustCode": "IEDA3250"
             },
             {
                 "exchangeCourse": "ME3017 System Dynamics",
@@ -444,6 +429,11 @@
                 "exchangeCourse": "CE4448 Fundamentals of Contracts and Construction Engineering",
                 "hkustCourse": "CIVL3210 Introduction to Construction Management (3 Cr)",
                 "hkustCode": "CIVL3210"
+            },
+            {
+                "exchangeCourse": "STAT5814 Applied Time Series Analysis",
+                "hkustCourse": "ISOM3000OM 3000-level Course in Information Systems, Business Statistics and Operations Management (3 Cr)",
+                "hkustCode": "ISOM3000OM"
             }
         ]
     },
@@ -582,11 +572,6 @@
                 "hkustCode": "MECH3610"
             },
             {
-                "exchangeCourse": "MGMT54400 Database Management Systems",
-                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
-                "hkustCode": "ISOM3260"
-            },
-            {
                 "exchangeCourse": "PHIL120 Critical Thinking",
                 "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
                 "hkustCode": "HUMA1000HMCC"
@@ -668,9 +653,29 @@
         ],
         "courses": [
             {
-                "exchangeCourse": "33390400XX Corporate Finance ",
-                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
-                "hkustCode": "FINA3303"
+                "exchangeCourse": "01198416XX Operating Systems Design",
+                "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
+                "hkustCode": "COMP3511"
+            },
+            {
+                "exchangeCourse": "01198419XX Computer Security",
+                "hkustCourse": "COMP4631 Computer and Communication Security (3 Cr)",
+                "hkustCode": "COMP4631"
+            },
+            {
+                "exchangeCourse": "01198428XX Introduction to Computer Graphics",
+                "hkustCourse": "COMP4411 Computer Graphics (3 Cr)",
+                "hkustCode": "COMP4411"
+            },
+            {
+                "exchangeCourse": "01198431XX Software Engineering",
+                "hkustCourse": "COMP3111 Software Engineering (4 Cr)",
+                "hkustCode": "COMP3111"
+            },
+            {
+                "exchangeCourse": "01198440XX Introduction to Artificial Intelligence",
+                "hkustCourse": "COMP3211 Fundamentals of Artificial Intelligence (3 Cr)",
+                "hkustCode": "COMP3211"
             },
             {
                 "exchangeCourse": "ECON322 Econometrics (eqv code: 01220322xx)",
@@ -709,7 +714,18 @@
                 "snippet": "... range of needs represented within a diverse student population in the context ... for Junior and Senior students in West Apartments, Chávez Hall, and Tubman ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "BIO321 Introduction to Ecological Genetics and Genomics",
+                "hkustCourse": "LIFS3000LEVEL 3000-level Course in Life Science (3 Cr)",
+                "hkustCode": "LIFS3000LEVEL"
+            },
+            {
+                "exchangeCourse": "CIV312 Design of Civil Engineering Structures",
+                "hkustCourse": "CIVL4000LEVEL 4000-level Course in Civil and Environmental Engineering (3 Cr)",
+                "hkustCode": "CIVL4000LEVEL"
+            }
+        ]
     },
     {
         "id": 14,
@@ -751,11 +767,6 @@
                 "exchangeCourse": "CHEN425 Process Integration, Simulation and Economics",
                 "hkustCourse": "CENG3120 Process Design and Integration (3 Cr)",
                 "hkustCode": "CENG3120"
-            },
-            {
-                "exchangeCourse": "SOCI205 Introduction to Sociology",
-                "hkustCourse": "SOSC1850 Understanding Society (3 Cr)",
-                "hkustCode": "SOSC1850"
             }
         ]
     },
@@ -831,6 +842,16 @@
                 "exchangeCourse": "ACC359 Managerial/Cost Accounting",
                 "hkustCourse": "ACCT3210 Advanced Management Accounting (3 Cr)",
                 "hkustCode": "ACCT3210"
+            },
+            {
+                "exchangeCourse": "ACC362 Auditing and Control",
+                "hkustCourse": "ACCT4510 Auditing (3 Cr)",
+                "hkustCode": "ACCT4510"
+            },
+            {
+                "exchangeCourse": "ACC380K.2 Financial Accounting Standards and Analysis II",
+                "hkustCourse": "ACCT4010 Advanced Financial Accounting (3 Cr)",
+                "hkustCode": "ACCT4010"
             },
             {
                 "exchangeCourse": "ECO320L Macroeconomic Theory",
@@ -973,12 +994,32 @@
                 "hkustCode": "MECH3310"
             },
             {
+                "exchangeCourse": "PSYCHW1 General Psychology (Online Course) ",
+                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
+                "hkustCode": "SOSC1960"
+            },
+            {
+                "exchangeCourse": "STAT134 Concepts of Probability",
+                "hkustCourse": "MATH2421 Probability (4 Cr)",
+                "hkustCode": "MATH2421"
+            },
+            {
+                "exchangeCourse": "UGBA118 International Trade",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
+                "hkustCode": "ECON4364"
+            },
+            {
                 "exchangeCourse": "UGBA131 Corporate Finance and Financial Analysis",
                 "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
                 "hkustCode": "FINA4000LEVEL"
             },
             {
                 "exchangeCourse": "UGBA134 Introduction to Financial Engineering",
+                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
+                "hkustCode": "FINA3203"
+            },
+            {
+                "exchangeCourse": "UGBA137 Financial Derivatives",
                 "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
                 "hkustCode": "FINA3203"
             },
@@ -1062,13 +1103,7 @@
                 "snippet": "University Apartments, which allow you to interact with and explore the community, while practicing your English in real-life situations; Homestays, which will ..."
             }
         ],
-        "courses": [
-            {
-                "exchangeCourse": "PSYBEN9 Introduction to Psychology (eqv code: PSYCH7A)",
-                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
-                "hkustCode": "SOSC1960"
-            }
-        ]
+        "courses": []
     },
     {
         "id": 21,
@@ -1356,6 +1391,11 @@
                 "hkustCode": "SOSC1980"
             },
             {
+                "exchangeCourse": "ECO3704 International Trade",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
+                "hkustCode": "ECON4364"
+            },
+            {
                 "exchangeCourse": "ECO4400 Game Theory and Applications",
                 "hkustCourse": "ECON4124 Applied Game Theory (4 Cr)",
                 "hkustCode": "ECON4124"
@@ -1366,9 +1406,24 @@
                 "hkustCode": "MGMT4220"
             },
             {
+                "exchangeCourse": "ESI4221C Industrial Quality Control",
+                "hkustCourse": "IEDA3270 Data-Driven Quality Technology (0 Cr)",
+                "hkustCode": "IEDA3270"
+            },
+            {
                 "exchangeCourse": "ESI4523 Industrial Systems Simulation",
                 "hkustCourse": "IEDA4130 System Simulation (3 Cr)",
                 "hkustCode": "IEDA4130"
+            },
+            {
+                "exchangeCourse": "FIN4414 Financial Management",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FIN4504 Equity and Capital Markets",
+                "hkustCourse": "OTHRFREE Free Credits (4 Cr)",
+                "hkustCode": "OTHRFREE"
             },
             {
                 "exchangeCourse": "GEB3373 International Business",
@@ -1384,6 +1439,16 @@
                 "exchangeCourse": "MAR3503 Consumer Behavior",
                 "hkustCourse": "MARK3420 Consumer Behavior (4 Cr)",
                 "hkustCode": "MARK3420"
+            },
+            {
+                "exchangeCourse": "PHY3513 Thermal Physics",
+                "hkustCourse": "PHYS4050 Thermodynamics and Statistical Physics (3 Cr)",
+                "hkustCode": "PHYS4050"
+            },
+            {
+                "exchangeCourse": "PHY4604 Introductory Quantum Mechanics 1",
+                "hkustCourse": "PHYS3036 Quantum Mechanics I (3 Cr)",
+                "hkustCode": "PHYS3036"
             },
             {
                 "exchangeCourse": "PSY2012 General Psychology",
@@ -1429,11 +1494,6 @@
                 "hkustCode": "CIVL3610"
             },
             {
-                "exchangeCourse": "CEE450 Surface Hydrology",
-                "hkustCourse": "CIVL3510 Hydrosystems Engineering (3 Cr)",
-                "hkustCode": "CIVL3510"
-            },
-            {
                 "exchangeCourse": "CS241 System Programming",
                 "hkustCourse": "COMP3511 Operating Systems (3 Cr)",
                 "hkustCode": "COMP3511"
@@ -1474,34 +1534,9 @@
                 "hkustCode": "MATH2421"
             },
             {
-                "exchangeCourse": "ECON302 Intermediate Microeconomic Theory",
-                "hkustCourse": "OTHRFREE Free Credits (3 Cr)",
-                "hkustCode": "OTHRFREE"
-            },
-            {
                 "exchangeCourse": "ECON471 Introduction to Applied Econometrics",
                 "hkustCourse": "ECON3334 Introduction to Econometrics (4 Cr)",
                 "hkustCode": "ECON3334"
-            },
-            {
-                "exchangeCourse": "FIN321 Advanced Corporate Finance /  Corporate Finance",
-                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
-                "hkustCode": "FINA3303"
-            },
-            {
-                "exchangeCourse": "FIN412 Options and Futures Marktes",
-                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
-                "hkustCode": "FINA3203"
-            },
-            {
-                "exchangeCourse": "GER101 Beginning German I",
-                "hkustCourse": "LANG1320 German in the World of Science and Technology (3 Cr)",
-                "hkustCode": "LANG1320"
-            },
-            {
-                "exchangeCourse": "IE420 Financial Engineering",
-                "hkustCourse": "FINA3203 Derivative Securities (3 Cr)",
-                "hkustCode": "FINA3203"
             },
             {
                 "exchangeCourse": "MATH415 Applied Linear Algebra",
@@ -1509,9 +1544,14 @@
                 "hkustCode": "MATH2111"
             },
             {
-                "exchangeCourse": "MATH461 Probability Theory",
-                "hkustCourse": "ISOM3540 Introduction to Probability Models (3 Cr)",
-                "hkustCode": "ISOM3540"
+                "exchangeCourse": "ME371 Mechanical Design II",
+                "hkustCourse": "MECH3520 Design and Manufacturing II (3 Cr)",
+                "hkustCode": "MECH3520"
+            },
+            {
+                "exchangeCourse": "ME430 Failure of Engineering Materials",
+                "hkustCourse": "MECH4010 Materials Failure in Mechanical Applications (3 Cr)",
+                "hkustCode": "MECH4010"
             },
             {
                 "exchangeCourse": "PSYC100 Introduction to Psychology",
@@ -1662,6 +1702,11 @@
         ],
         "courses": [
             {
+                "exchangeCourse": "EECS442 Computer Vision ",
+                "hkustCourse": "COMPA&T Computer Science Track Course (0 Cr)",
+                "hkustCode": "COMPA&T"
+            },
+            {
                 "exchangeCourse": "EECS445 Introduction to Machine Learning / Intro Machine Learn",
                 "hkustCourse": "COMP4331 Data Mining (3 Cr)",
                 "hkustCode": "COMP4331"
@@ -1715,14 +1760,19 @@
                 "hkustCode": "CENG4620"
             },
             {
-                "exchangeCourse": "ESPM1011 Issues in the Environment",
-                "hkustCourse": "LIFS1030 Environmental Science (3 Cr)",
-                "hkustCode": "LIFS1030"
+                "exchangeCourse": "ECON4401 International Economics",
+                "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
+                "hkustCode": "ECON4364"
             },
             {
-                "exchangeCourse": "PSY1001 Introduction to Psychology",
-                "hkustCourse": "SOSC1960 Discovering Mind and Behavior (3 Cr)",
-                "hkustCode": "SOSC1960"
+                "exchangeCourse": "FINA4221 Principles of Corporate Finance",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
+                "exchangeCourse": "FINA4621 The Global Economy (Macro) ",
+                "hkustCourse": "OTHRFREE Free Credits (2 Cr)",
+                "hkustCode": "OTHRFREE"
             }
         ]
     },
@@ -1778,11 +1828,6 @@
                 "hkustCode": "COMP3511"
             },
             {
-                "exchangeCourse": "CIS450/550 Database & Information Systems (eqv code: CIS450)",
-                "hkustCourse": "ISOM3260 Database Design and Administration (4 Cr)",
-                "hkustCode": "ISOM3260"
-            },
-            {
                 "exchangeCourse": "ECON050 International Economics",
                 "hkustCourse": "ECON4364 International Trade and Investment (4 Cr)",
                 "hkustCode": "ECON4364"
@@ -1791,16 +1836,6 @@
                 "exchangeCourse": "ECON235 Industrial Organization",
                 "hkustCourse": "ECON4114 Industrial Organization and Competitive Strategy (4 Cr)",
                 "hkustCode": "ECON4114"
-            },
-            {
-                "exchangeCourse": "ENM251 Analytical Methods in Engineering",
-                "hkustCourse": "MATH2352 Differential Equations (4 Cr)",
-                "hkustCode": "MATH2352"
-            },
-            {
-                "exchangeCourse": "FNCE100 Corporate Finance",
-                "hkustCourse": "FINA2303 Financial Management (3 Cr)",
-                "hkustCode": "FINA2303"
             },
             {
                 "exchangeCourse": "FNCE203 Advanced Corporate Finance ",
@@ -1916,9 +1951,19 @@
                 "hkustCode": "FINA4013"
             },
             {
+                "exchangeCourse": "FBE423 Introduction to Venture Capital and Private Equity",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (0 Cr)",
+                "hkustCode": "FINA3000LEVEL"
+            },
+            {
                 "exchangeCourse": "FBE432 Corporate Financial Strategy",
                 "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
                 "hkustCode": "FINA3303"
+            },
+            {
+                "exchangeCourse": "FBE437 Entrepreneurial Finance: Financial Management for Developing Firms",
+                "hkustCourse": "FINA3000LEVEL 3000-level Course in Finance (4 Cr)",
+                "hkustCode": "FINA3000LEVEL"
             },
             {
                 "exchangeCourse": "FBE441 Investments",
@@ -1931,9 +1976,9 @@
                 "hkustCode": "FINA3203"
             },
             {
-                "exchangeCourse": "LING110G In a Word",
-                "hkustCourse": "HUMA1000HMCC 1000-level Course in Humanities (3 Cr)",
-                "hkustCode": "HUMA1000HMCC"
+                "exchangeCourse": "FBE460 Mergers, Acquisitions and Restructuring",
+                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (4 Cr)",
+                "hkustCode": "FINA4000LEVEL"
             },
             {
                 "exchangeCourse": "MKT405 Advertising and Promotion Strategy",
@@ -2004,6 +2049,11 @@
                 "hkustCode": "ISOM3540"
             },
             {
+                "exchangeCourse": "# Probability / Introduction to Probability",
+                "hkustCourse": "MATH2421 Probability (4 Cr)",
+                "hkustCode": "MATH2421"
+            },
+            {
                 "exchangeCourse": "COMM3110 Intermediate Accounting I",
                 "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)",
                 "hkustCode": "ACCT3010"
@@ -2017,6 +2067,11 @@
                 "exchangeCourse": "COMM4720 Advanced Corporate Finance: Valuation and Restructuring",
                 "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
                 "hkustCode": "FINA4000LEVEL"
+            },
+            {
+                "exchangeCourse": "COMM4780 Quantitative Finance Seminar",
+                "hkustCourse": "FINA4003 Wealth Management (3 Cr)",
+                "hkustCode": "FINA4003"
             },
             {
                 "exchangeCourse": "ECON3020 Intermediate Macroeconomics",
@@ -2104,6 +2159,16 @@
         ],
         "courses": [
             {
+                "exchangeCourse": "ACCTIS302 Financial Reporting II",
+                "hkustCourse": "ACCT3020 Financial Accounting II (3 Cr)",
+                "hkustCode": "ACCT3020"
+            },
+            {
+                "exchangeCourse": "ACCTIS310 Cost Management Systems",
+                "hkustCourse": "ACCT3210 Advanced Management Accounting (3 Cr)",
+                "hkustCode": "ACCT3210"
+            },
+            {
                 "exchangeCourse": "ECON301 Intermediate Microeconomic Theory",
                 "hkustCourse": "OTHRFREE Free Credits (4 Cr)",
                 "hkustCode": "OTHRFREE"
@@ -2190,7 +2255,13 @@
                 "snippet": "Transfer Student Housing. Undergraduate Residential Requirement. Vanderbilt University is a residential campus for undergraduate students, and the ..."
             }
         ],
-        "courses": []
+        "courses": [
+            {
+                "exchangeCourse": "CE3250 Gedotechnical Engineering",
+                "hkustCourse": "CIVL3730 Fundamentals of Geotechnics (3 Cr)",
+                "hkustCode": "CIVL3730"
+            }
+        ]
     },
     {
         "id": 39,
@@ -2224,19 +2295,19 @@
         ],
         "courses": [
             {
+                "exchangeCourse": "ACCT(B50)3610 Intermediate Financial Accounting Theory I",
+                "hkustCourse": "ACCT3010 Financial Accounting I (3 Cr)",
+                "hkustCode": "ACCT3010"
+            },
+            {
                 "exchangeCourse": "FIN441(B52) Investments",
                 "hkustCourse": "FINA3103 Intermediate Investments (3 Cr)",
                 "hkustCode": "FINA3103"
             },
             {
-                "exchangeCourse": "FIN447(B52) Information, Intermediation, and Financial Markets",
-                "hkustCourse": "FINA4000LEVEL 4000-level Course in Finance (3 Cr)",
-                "hkustCode": "FINA4000LEVEL"
-            },
-            {
-                "exchangeCourse": "FIN447(B52) Information, Intermediation, and Financial Markets",
-                "hkustCourse": "FINA4503 Banking and Financial Intermediation (3 Cr)",
-                "hkustCode": "FINA4503"
+                "exchangeCourse": "FIN448(B52) Advanced Financial Management",
+                "hkustCourse": "FINA3303 Intermediate Corporate Finance (3 Cr)",
+                "hkustCode": "FINA3303"
             },
             {
                 "exchangeCourse": "MGT(B53)380 Business Strategy",

@@ -10,7 +10,8 @@ let current = new Date();
 //          [Jan  ,  Feb,  Mar,  Apr,  May,  Jun,  Jul,  Aug,  Sep,  Oct,  Nov, Dec ]
 //         Winter | Spring              | Summer      | Fall                    | Winter
 let month = ["20" , "30", "30", "30", "40", "40", "40", "10", "10", "10", "10", "20"];
-base += current.getFullYear().toString().substr(-2, 2) + month[current.getMonth()-1];
+let year = (current.getMonth() < 7) ? (current.getFullYear() - 1).toString().substr(-2, 2): current.getFullYear().toString().substr(-2, 2);
+base += year + month[current.getMonth()];
 
 console.log(base);
 
